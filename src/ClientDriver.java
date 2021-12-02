@@ -5,7 +5,7 @@ import java.util.*;
 class ClientDriver{
 	public static void main(String args[]){
 		if(args.length != 2){
-			System.out.println("supply address and port");
+			System.out.println("supply address and port\nUsage: java ClientDriver address port");
 			System.exit(0);
 		}
 		
@@ -13,7 +13,6 @@ class ClientDriver{
 		int numVoters = 20;
 		int numIDHelpers = 3;
 		int numKiosks = 3;
-		int numScanMachines = 4;
 		int numScanHelpers = 2;
 		
 		int port = Integer.parseInt(args[1]);
@@ -23,6 +22,9 @@ class ClientDriver{
 		}
 		for(int i=0;i<numKiosks;i++){
 			new KioskHelperClient(address, port, i);
+		}
+		for(int i=0;i<numScanHelpers;i++){
+			new ScanHelperClient(address, port, i);
 		}
 		for(int i=0;i<numVoters;i++){
 			new VoterClient(address, port, i);

@@ -4,7 +4,7 @@ import java.util.*;
 import java.util.Random;
 import java.util.concurrent.TimeUnit;
 
-public class IDCheckerClient implements Runnable{
+public class ScanHelperClient implements Runnable{
 	private String name;
 	private Socket connection;
 	
@@ -14,8 +14,8 @@ public class IDCheckerClient implements Runnable{
 	private Random rand = new Random(System.currentTimeMillis());
 	private static long time = System.currentTimeMillis();
 	
-	public IDCheckerClient(String address, int port, int counter){
-		this.name = "IDChecker_"+counter;
+	public ScanHelperClient(String address, int port, int counter){
+		this.name = "ScanHelper_"+counter;
 		this.address = address;
 		this.port = port;
 		new Thread(this).start();
@@ -35,7 +35,7 @@ public class IDCheckerClient implements Runnable{
 				helpVoter for id			1
 			*/
 			msg("Sending Thread type to Server");
-			dos.writeUTF("ID_Checker");
+			dos.writeUTF("Scan_Helper");
 			msg("Type sent. Awaiting confirmation.");
 			String input = dis.readUTF();
 			msg("Recieved: "+input);
@@ -55,7 +55,7 @@ public class IDCheckerClient implements Runnable{
 				wasteTime(1000,2000);
 			}
 			dos.writeUTF("DONE");
-			msg("Done, leaving the voting area (exiting, patriotically)");
+			msg("Done, leaving the voting area");
 		}
 		catch(Exception e){
 			System.out.println(e);

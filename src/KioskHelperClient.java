@@ -54,7 +54,7 @@ public class KioskHelperClient implements Runnable{
 				msg("Method number sent. Awaiting server to respond");
 				input = dis.readUTF();
 				msg("Recieved: "+input);
-				wasteTime(2000,5000);
+				wasteTime(1000,2000);
 			}
 			dos.writeUTF("DONE");
 			msg("Done, leaving the voting area");

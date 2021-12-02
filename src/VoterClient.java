@@ -57,7 +57,7 @@ public class VoterClient implements Runnable{
 			input = dis.readUTF();
 			msg("Recieved: "+input);
 			
-			for(int i=1;i<6;i++){
+			for(int i=1;i<9;i++){
 				msg("Sending method "+i+" to Server");
 				dos.writeUTF(""+i);
 				msg("Method number sent. Awaiting server to respond");

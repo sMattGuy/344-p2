@@ -155,7 +155,10 @@ class ServerClientHelper implements Runnable{
 		}
 		else if(threadType.equals("Scan_Helper")){
 			switch(methodID){
-				
+				case 1:
+					msg(threadName+" ready to help voters at scanner");
+					if(scanner.startHelping(this.name)){sendDone = "DONE";};
+					break;
 			}
 		}
 	}

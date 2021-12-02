@@ -60,7 +60,7 @@ class ScanMachine{
 		}
 	}
 	
-	public void startHelping(String name){
+	public boolean startHelping(String name){
 		//we can check the help voter queue for any stuck voters, and handle them
 		if(!helpVoter.isEmpty()){
 			//assist the voter with their problem
@@ -81,6 +81,12 @@ class ScanMachine{
 				}
 			}
 			//get released when voter is done
+			if(tracker.scannerVotersRemaining == 0){
+				alertHelpers();
+				alertBusyHelper();
+				return true;
+			}
+			return false;
 		}
 		else{
 			//helpers will enter and wait until voters alert that they have enough, then if conditions are met, a new group can enter
@@ -105,6 +111,12 @@ class ScanMachine{
 					}
 				}
 			}
+			if(tracker.scannerVotersRemaining == 0){
+				alertHelpers();
+				alertBusyHelper();
+				return true;
+			}
+			return false;
 			//when a helper is released, its most likely to help a voter.
 			//if nothing, and still voters left, thread will loop in its run function
 		}
