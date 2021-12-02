@@ -1,0 +1,1506 @@
+ServerSocket created on port 5070 with address 206.180.59.166
+Connection accepted
+[5] ServerClientHelper_0: ServerClientHelper started
+[17] ServerClientHelper_0: Data Input/Output Stream created
+[17] ServerClientHelper_0: Getting Client Thread Type
+[18] ServerClientHelper_0: Getting Kiosk Helper number
+[20] ServerClientHelper_0: Kiosk Helper is in kiosk 0
+[22] ServerClientHelper_0: Client has declared they are type Kiosk_Helper, getting name.
+[22] ServerClientHelper_0: Client has declared they are KioskHelper_0, beginning routine
+[23] ServerClientHelper_0: Getting method to run
+[23] ServerClientHelper_0: Client has requested to run method 1
+[24] ServerClientHelper_0: KioskHelper_0 ready to help voter at kiosk
+Connection accepted
+Connection accepted
+Connection accepted
+[330] ServerClientHelper_1: ServerClientHelper started
+[330] ServerClientHelper_2: ServerClientHelper started
+[330] ServerClientHelper_2: Data Input/Output Stream created
+[330] ServerClientHelper_2: Getting Client Thread Type
+[330] ServerClientHelper_1: Data Input/Output Stream created
+[330] ServerClientHelper_3: ServerClientHelper started
+[330] ServerClientHelper_1: Getting Client Thread Type
+[330] ServerClientHelper_3: Data Input/Output Stream created
+[330] ServerClientHelper_3: Getting Client Thread Type
+[330] ServerClientHelper_2: Client has declared they are type ID_Checker, getting name.
+[330] ServerClientHelper_3: Client has declared they are type ID_Checker, getting name.
+[331] ServerClientHelper_2: Client has declared they are IDChecker_2, beginning routine
+[331] ServerClientHelper_2: Getting method to run
+[331] ServerClientHelper_1: Client has declared they are type ID_Checker, getting name.
+[331] ServerClientHelper_2: Client has requested to run method 1
+[331] ServerClientHelper_2: IDChecker_2 ready to help next voter
+[331] ServerClientHelper_1: Client has declared they are IDChecker_0, beginning routine
+[331] ServerClientHelper_3: Client has declared they are IDChecker_1, beginning routine
+[331] ServerClientHelper_1: Getting method to run
+[331] ServerClientHelper_3: Getting method to run
+[331] ServerClientHelper_1: Client has requested to run method 1
+[331] ServerClientHelper_3: Client has requested to run method 1
+[331] ServerClientHelper_1: IDChecker_0 ready to help next voter
+[331] ServerClientHelper_3: IDChecker_1 ready to help next voter
+Connection accepted
+Connection accepted
+[359] ServerClientHelper_5: ServerClientHelper started
+[359] ServerClientHelper_5: Data Input/Output Stream created
+[359] ServerClientHelper_5: Getting Client Thread Type
+[359] ServerClientHelper_4: ServerClientHelper started
+[359] ServerClientHelper_4: Data Input/Output Stream created
+[359] ServerClientHelper_4: Getting Client Thread Type
+[359] ServerClientHelper_5: Client has declared they are type Voter, getting name.
+[360] ServerClientHelper_5: Client has declared they are Voter_0, beginning routine
+[360] ServerClientHelper_5: Getting method to run
+[360] ServerClientHelper_4: Client has declared they are type Voter, getting name.
+[360] ServerClientHelper_4: Client has declared they are Voter_1, beginning routine
+[360] ServerClientHelper_4: Getting method to run
+[361] ServerClientHelper_4: Client has requested to run method 1
+[361] ServerClientHelper_5: Client has requested to run method 1
+[361] ServerClientHelper_4: Voter_1 entering ID line
+[361] ServerClientHelper_5: Voter_0 entering ID line
+[361] ServerClientHelper_2: IDChecker_2 helping a voter
+[361] ServerClientHelper_1: IDChecker_0 helping a voter
+[361] ServerClientHelper_2: Done helping with method, Responding to Client
+[361] ServerClientHelper_1: Done helping with method, Responding to Client
+[361] ServerClientHelper_2: Getting method to run
+[361] ServerClientHelper_1: Getting method to run
+Connection accepted
+Connection accepted
+[732] ServerClientHelper_6: ServerClientHelper started
+[732] ServerClientHelper_6: Data Input/Output Stream created
+[732] ServerClientHelper_6: Getting Client Thread Type
+[732] ServerClientHelper_7: ServerClientHelper started
+[733] ServerClientHelper_7: Data Input/Output Stream created
+[733] ServerClientHelper_7: Getting Client Thread Type
+[733] ServerClientHelper_7: Client has declared they are type Scan_Helper, getting name.
+[733] ServerClientHelper_6: Client has declared they are type Scan_Helper, getting name.
+[733] ServerClientHelper_7: Client has declared they are ScanHelper_1, beginning routine
+[733] ServerClientHelper_7: Getting method to run
+[733] ServerClientHelper_7: Client has requested to run method 1
+[733] ServerClientHelper_6: Client has declared they are ScanHelper_0, beginning routine
+[733] ServerClientHelper_6: Getting method to run
+[734] ServerClientHelper_7: ScanHelper_1 ready to help voters at scanner
+[734] ServerClientHelper_6: Client has requested to run method 1
+[734] ServerClientHelper_6: ScanHelper_0 ready to help voters at scanner
+Connection accepted
+Connection accepted
+Connection accepted
+Connection accepted
+Connection accepted
+Connection accepted
+Connection accepted
+Connection accepted
+[1115] ServerClientHelper_8: ServerClientHelper started
+[1115] ServerClientHelper_8: Data Input/Output Stream created
+[1115] ServerClientHelper_8: Getting Client Thread Type
+[1116] ServerClientHelper_8: Client has declared they are type Voter, getting name.
+[1116] ServerClientHelper_8: Client has declared they are Voter_13, beginning routine
+[1116] ServerClientHelper_9: ServerClientHelper started
+[1116] ServerClientHelper_9: Data Input/Output Stream created
+[1116] ServerClientHelper_9: Getting Client Thread Type
+[1116] ServerClientHelper_9: Client has declared they are type Voter, getting name.
+[1117] ServerClientHelper_9: Client has declared they are Voter_12, beginning routine
+[1117] ServerClientHelper_9: Getting method to run
+[1117] ServerClientHelper_9: Client has requested to run method 1
+[1117] ServerClientHelper_9: Voter_12 entering ID line
+[1117] ServerClientHelper_3: IDChecker_1 helping a voter
+[1117] ServerClientHelper_3: Done helping with method, Responding to Client
+[1116] ServerClientHelper_8: Getting method to run
+[1117] ServerClientHelper_3: Getting method to run
+[1117] ServerClientHelper_8: Client has requested to run method 1
+[1117] ServerClientHelper_8: Voter_13 entering ID line
+[1117] ServerClientHelper_10: ServerClientHelper started
+[1117] ServerClientHelper_10: Data Input/Output Stream created
+[1117] ServerClientHelper_10: Getting Client Thread Type
+[1118] ServerClientHelper_10: Client has declared they are type Voter, getting name.
+[1118] ServerClientHelper_11: ServerClientHelper started
+[1118] ServerClientHelper_11: Data Input/Output Stream created
+[1118] ServerClientHelper_10: Client has declared they are Voter_15, beginning routine
+[1118] ServerClientHelper_10: Getting method to run
+[1118] ServerClientHelper_10: Client has requested to run method 1
+[1118] ServerClientHelper_11: Getting Client Thread Type
+[1118] ServerClientHelper_10: Voter_15 entering ID line
+[1118] ServerClientHelper_12: ServerClientHelper started
+[1118] ServerClientHelper_12: Data Input/Output Stream created
+[1118] ServerClientHelper_13: ServerClientHelper started
+[1118] ServerClientHelper_11: Client has declared they are type Voter, getting name.
+[1118] ServerClientHelper_13: Data Input/Output Stream created
+[1118] ServerClientHelper_13: Getting Client Thread Type
+[1118] ServerClientHelper_11: Client has declared they are Voter_14, beginning routine
+[1119] ServerClientHelper_11: Getting method to run
+[1119] ServerClientHelper_11: Client has requested to run method 1
+[1118] ServerClientHelper_12: Getting Client Thread Type
+[1119] ServerClientHelper_11: Voter_14 entering ID line
+[1119] ServerClientHelper_13: Client has declared they are type Voter, getting name.
+[1119] ServerClientHelper_13: Client has declared they are Voter_16, beginning routine
+[1119] ServerClientHelper_13: Getting method to run
+[1119] ServerClientHelper_12: Client has declared they are type Voter, getting name.
+[1119] ServerClientHelper_14: ServerClientHelper started
+[1119] ServerClientHelper_13: Client has requested to run method 1
+[1119] ServerClientHelper_14: Data Input/Output Stream created
+[1119] ServerClientHelper_12: Client has declared they are Voter_17, beginning routine
+[1119] ServerClientHelper_13: Voter_16 entering ID line
+[1119] ServerClientHelper_12: Getting method to run
+[1119] ServerClientHelper_14: Getting Client Thread Type
+[1119] ServerClientHelper_12: Client has requested to run method 1
+[1120] ServerClientHelper_12: Voter_17 entering ID line
+[1120] ServerClientHelper_14: Client has declared they are type Voter, getting name.
+[1120] ServerClientHelper_14: Client has declared they are Voter_18, beginning routine
+[1120] ServerClientHelper_14: Getting method to run
+[1120] ServerClientHelper_14: Client has requested to run method 1
+[1120] ServerClientHelper_14: Voter_18 entering ID line
+[1120] ServerClientHelper_15: ServerClientHelper started
+[1120] ServerClientHelper_15: Data Input/Output Stream created
+[1120] ServerClientHelper_15: Getting Client Thread Type
+[1121] ServerClientHelper_15: Client has declared they are type Voter, getting name.
+[1121] ServerClientHelper_15: Client has declared they are Voter_19, beginning routine
+[1121] ServerClientHelper_15: Getting method to run
+[1121] ServerClientHelper_15: Client has requested to run method 1
+[1121] ServerClientHelper_15: Voter_19 entering ID line
+Connection accepted
+Connection accepted
+Connection accepted
+Connection accepted
+Connection accepted
+Connection accepted
+Connection accepted
+Connection accepted
+Connection accepted
+[1489] ServerClientHelper_16: ServerClientHelper started
+[1489] ServerClientHelper_16: Data Input/Output Stream created
+[1489] ServerClientHelper_16: Getting Client Thread Type
+Connection accepted
+[1490] ServerClientHelper_16: Client has declared they are type Voter, getting name.
+[1490] ServerClientHelper_17: ServerClientHelper started
+[1490] ServerClientHelper_17: Data Input/Output Stream created
+[1490] ServerClientHelper_17: Getting Client Thread Type
+[1490] ServerClientHelper_16: Client has declared they are Voter_4, beginning routine
+[1490] ServerClientHelper_16: Getting method to run
+[1490] ServerClientHelper_18: ServerClientHelper started
+[1490] ServerClientHelper_18: Data Input/Output Stream created
+[1490] ServerClientHelper_18: Getting Client Thread Type
+[1490] ServerClientHelper_17: Client has declared they are type Voter, getting name.
+[1490] ServerClientHelper_18: Client has declared they are type Voter, getting name.
+[1491] ServerClientHelper_17: Client has declared they are Voter_3, beginning routine
+[1491] ServerClientHelper_17: Getting method to run
+[1491] ServerClientHelper_18: Client has declared they are Voter_2, beginning routine
+[1491] ServerClientHelper_18: Getting method to run
+[1491] ServerClientHelper_17: Client has requested to run method 1
+[1490] ServerClientHelper_16: Client has requested to run method 1
+[1491] ServerClientHelper_18: Client has requested to run method 1
+[1491] ServerClientHelper_17: Voter_3 entering ID line
+[1491] ServerClientHelper_18: Voter_2 entering ID line
+[1491] ServerClientHelper_16: Voter_4 entering ID line
+[1491] ServerClientHelper_19: ServerClientHelper started
+[1491] ServerClientHelper_20: ServerClientHelper started
+[1491] ServerClientHelper_21: ServerClientHelper started
+[1491] ServerClientHelper_19: Data Input/Output Stream created
+[1491] ServerClientHelper_21: Data Input/Output Stream created
+[1491] ServerClientHelper_20: Data Input/Output Stream created
+[1491] ServerClientHelper_21: Getting Client Thread Type
+[1491] ServerClientHelper_22: ServerClientHelper started
+[1491] ServerClientHelper_19: Getting Client Thread Type
+[1491] ServerClientHelper_22: Data Input/Output Stream created
+[1491] ServerClientHelper_22: Getting Client Thread Type
+[1492] ServerClientHelper_21: Client has declared they are type Voter, getting name.
+[1492] ServerClientHelper_21: Client has declared they are Voter_7, beginning routine
+[1492] ServerClientHelper_21: Getting method to run
+[1492] ServerClientHelper_19: Client has declared they are type Voter, getting name.
+[1492] ServerClientHelper_21: Client has requested to run method 1
+[1492] ServerClientHelper_22: Client has declared they are type Voter, getting name.
+[1492] ServerClientHelper_19: Client has declared they are Voter_6, beginning routine
+[1492] ServerClientHelper_19: Getting method to run
+[1491] ServerClientHelper_20: Getting Client Thread Type
+[1492] ServerClientHelper_22: Client has declared they are Voter_8, beginning routine
+[1492] ServerClientHelper_21: Voter_7 entering ID line
+[1492] ServerClientHelper_22: Getting method to run
+[1492] ServerClientHelper_19: Client has requested to run method 1
+[1493] ServerClientHelper_22: Client has requested to run method 1
+[1493] ServerClientHelper_20: Client has declared they are type Voter, getting name.
+[1493] ServerClientHelper_22: Voter_8 entering ID line
+[1493] ServerClientHelper_19: Voter_6 entering ID line
+[1493] ServerClientHelper_23: ServerClientHelper started
+[1493] ServerClientHelper_23: Data Input/Output Stream created
+[1493] ServerClientHelper_23: Getting Client Thread Type
+[1493] ServerClientHelper_24: ServerClientHelper started
+[1493] ServerClientHelper_24: Data Input/Output Stream created
+[1493] ServerClientHelper_24: Getting Client Thread Type
+[1493] ServerClientHelper_23: Client has declared they are type Voter, getting name.
+[1493] ServerClientHelper_20: Client has declared they are Voter_5, beginning routine
+[1493] ServerClientHelper_20: Getting method to run
+[1493] ServerClientHelper_23: Client has declared they are Voter_9, beginning routine
+[1493] ServerClientHelper_23: Getting method to run
+[1493] ServerClientHelper_24: Client has declared they are type Voter, getting name.
+[1494] ServerClientHelper_23: Client has requested to run method 1
+[1494] ServerClientHelper_23: Voter_9 entering ID line
+[1494] ServerClientHelper_24: Client has declared they are Voter_10, beginning routine
+[1494] ServerClientHelper_24: Getting method to run
+[1494] ServerClientHelper_24: Client has requested to run method 1
+[1493] ServerClientHelper_20: Client has requested to run method 1
+[1494] ServerClientHelper_24: Voter_10 entering ID line
+[1494] ServerClientHelper_20: Voter_5 entering ID line
+[1494] ServerClientHelper_25: ServerClientHelper started
+[1494] ServerClientHelper_25: Data Input/Output Stream created
+[1494] ServerClientHelper_25: Getting Client Thread Type
+[1494] ServerClientHelper_25: Client has declared they are type Voter, getting name.
+[1495] ServerClientHelper_25: Client has declared they are Voter_11, beginning routine
+[1495] ServerClientHelper_25: Getting method to run
+[1495] ServerClientHelper_25: Client has requested to run method 1
+[1495] ServerClientHelper_25: Voter_11 entering ID line
+[2198] ServerClientHelper_1: Client has requested to run method 1
+[2198] ServerClientHelper_2: Client has requested to run method 1
+[2198] ServerClientHelper_1: IDChecker_0 ready to help next voter
+[2198] ServerClientHelper_2: IDChecker_2 ready to help next voter
+[2198] ServerClientHelper_5: Voter_0 getting ID checked
+[2198] ServerClientHelper_4: Voter_1 getting ID checked
+[2198] ServerClientHelper_5: Done helping with method, Responding to Client
+[2198] ServerClientHelper_4: Done helping with method, Responding to Client
+[2198] ServerClientHelper_4: Getting method to run
+[2198] ServerClientHelper_5: Getting method to run
+Connection accepted
+[2607] ServerClientHelper_26: ServerClientHelper started
+[2607] ServerClientHelper_26: Data Input/Output Stream created
+[2607] ServerClientHelper_26: Getting Client Thread Type
+Connection accepted
+[2607] ServerClientHelper_26: Getting Kiosk Helper number
+[2608] ServerClientHelper_26: Kiosk Helper is in kiosk 1
+[2608] ServerClientHelper_26: Client has declared they are type Kiosk_Helper, getting name.
+[2608] ServerClientHelper_26: Client has declared they are KioskHelper_1, beginning routine
+[2608] ServerClientHelper_26: Getting method to run
+[2608] ServerClientHelper_26: Client has requested to run method 1
+[2608] ServerClientHelper_26: KioskHelper_1 ready to help voter at kiosk
+[2608] ServerClientHelper_27: ServerClientHelper started
+[2608] ServerClientHelper_27: Data Input/Output Stream created
+[2608] ServerClientHelper_27: Getting Client Thread Type
+[2609] ServerClientHelper_27: Getting Kiosk Helper number
+[2609] ServerClientHelper_27: Kiosk Helper is in kiosk 2
+[2609] ServerClientHelper_27: Client has declared they are type Kiosk_Helper, getting name.
+[2609] ServerClientHelper_27: Client has declared they are KioskHelper_2, beginning routine
+[2609] ServerClientHelper_27: Getting method to run
+[2609] ServerClientHelper_27: Client has requested to run method 1
+[2609] ServerClientHelper_27: KioskHelper_2 ready to help voter at kiosk
+[2954] ServerClientHelper_3: Client has requested to run method 1
+[2954] ServerClientHelper_3: IDChecker_1 ready to help next voter
+[2954] ServerClientHelper_9: Voter_12 getting ID checked
+[2954] ServerClientHelper_9: Done helping with method, Responding to Client
+[2954] ServerClientHelper_9: Getting method to run
+[5270] ServerClientHelper_9: Client has requested to run method 2
+[5270] ServerClientHelper_9: Voter_12 exiting the ID line
+[5270] ServerClientHelper_1: IDChecker_0 helping a voter
+[5270] ServerClientHelper_1: Done helping with method, Responding to Client
+[5270] ServerClientHelper_9: Voter_12 exited the ID line
+[5270] ServerClientHelper_9: Done helping with method, Responding to Client
+[5270] ServerClientHelper_9: Getting method to run
+[5270] ServerClientHelper_1: Getting method to run
+[5437] ServerClientHelper_5: Client has requested to run method 2
+[5437] ServerClientHelper_5: Voter_0 exiting the ID line
+[5437] ServerClientHelper_5: Voter_0 exited the ID line
+[5437] ServerClientHelper_4: Client has requested to run method 2
+[5437] ServerClientHelper_5: Done helping with method, Responding to Client
+[5437] ServerClientHelper_2: IDChecker_2 helping a voter
+[5437] ServerClientHelper_4: Voter_1 exiting the ID line
+[5437] ServerClientHelper_5: Getting method to run
+[5437] ServerClientHelper_3: IDChecker_1 helping a voter
+[5437] ServerClientHelper_3: Done helping with method, Responding to Client
+[5437] ServerClientHelper_2: Done helping with method, Responding to Client
+[5437] ServerClientHelper_4: Voter_1 exited the ID line
+[5437] ServerClientHelper_4: Done helping with method, Responding to Client
+[5437] ServerClientHelper_4: Getting method to run
+[5437] ServerClientHelper_2: Getting method to run
+[5437] ServerClientHelper_3: Getting method to run
+[6578] ServerClientHelper_1: Client has requested to run method 1
+[6578] ServerClientHelper_1: IDChecker_0 ready to help next voter
+[6578] ServerClientHelper_8: Voter_13 getting ID checked
+[6578] ServerClientHelper_8: Done helping with method, Responding to Client
+[6578] ServerClientHelper_8: Getting method to run
+[6746] ServerClientHelper_2: Client has requested to run method 1
+[6746] ServerClientHelper_2: IDChecker_2 ready to help next voter
+[6746] ServerClientHelper_3: Client has requested to run method 1
+[6746] ServerClientHelper_3: IDChecker_1 ready to help next voter
+[6746] ServerClientHelper_10: Voter_15 getting ID checked
+[6746] ServerClientHelper_10: Done helping with method, Responding to Client
+[6746] ServerClientHelper_11: Voter_14 getting ID checked
+[6746] ServerClientHelper_11: Done helping with method, Responding to Client
+[6746] ServerClientHelper_11: Getting method to run
+[6746] ServerClientHelper_10: Getting method to run
+[7953] ServerClientHelper_9: Client has requested to run method 3
+[7953] ServerClientHelper_9: Voter_12 looking for shortest kiosk line
+[7956] ServerClientHelper_9: Voter_12 selected kiosk 0
+[7956] ServerClientHelper_9: Done helping with method, Responding to Client
+[7956] ServerClientHelper_9: Getting method to run
+[8855] ServerClientHelper_4: Client has requested to run method 3
+[8855] ServerClientHelper_4: Voter_1 looking for shortest kiosk line
+[8855] ServerClientHelper_4: Voter_1 selected kiosk 0
+[8855] ServerClientHelper_4: Done helping with method, Responding to Client
+[8855] ServerClientHelper_4: Getting method to run
+[8856] ServerClientHelper_5: Client has requested to run method 3
+[8856] ServerClientHelper_5: Voter_0 looking for shortest kiosk line
+[8856] ServerClientHelper_5: Voter_0 selected kiosk 0
+[8856] ServerClientHelper_5: Done helping with method, Responding to Client
+[8856] ServerClientHelper_5: Getting method to run
+[8895] ServerClientHelper_8: Client has requested to run method 2
+[8895] ServerClientHelper_8: Voter_13 exiting the ID line
+[8895] ServerClientHelper_8: Voter_13 exited the ID line
+[8895] ServerClientHelper_8: Done helping with method, Responding to Client
+[8895] ServerClientHelper_1: IDChecker_0 helping a voter
+[8895] ServerClientHelper_1: Done helping with method, Responding to Client
+[8895] ServerClientHelper_8: Getting method to run
+[8895] ServerClientHelper_1: Getting method to run
+[9062] ServerClientHelper_11: Client has requested to run method 2
+[9062] ServerClientHelper_10: Client has requested to run method 2
+[9062] ServerClientHelper_11: Voter_14 exiting the ID line
+[9062] ServerClientHelper_10: Voter_15 exiting the ID line
+[9062] ServerClientHelper_2: IDChecker_2 helping a voter
+[9062] ServerClientHelper_3: IDChecker_1 helping a voter
+[9062] ServerClientHelper_3: Done helping with method, Responding to Client
+[9062] ServerClientHelper_11: Voter_14 exited the ID line
+[9062] ServerClientHelper_2: Done helping with method, Responding to Client
+[9062] ServerClientHelper_10: Voter_15 exited the ID line
+[9062] ServerClientHelper_10: Done helping with method, Responding to Client
+[9062] ServerClientHelper_2: Getting method to run
+[9062] ServerClientHelper_3: Getting method to run
+[9062] ServerClientHelper_11: Done helping with method, Responding to Client
+[9062] ServerClientHelper_10: Getting method to run
+[9062] ServerClientHelper_11: Getting method to run
+[10815] ServerClientHelper_1: Client has requested to run method 1
+[10815] ServerClientHelper_1: IDChecker_0 ready to help next voter
+[10815] ServerClientHelper_13: Voter_16 getting ID checked
+[10815] ServerClientHelper_13: Done helping with method, Responding to Client
+[10815] ServerClientHelper_13: Getting method to run
+[10982] ServerClientHelper_2: Client has requested to run method 1
+[10982] ServerClientHelper_2: IDChecker_2 ready to help next voter
+[10982] ServerClientHelper_3: Client has requested to run method 1
+[10982] ServerClientHelper_12: Voter_17 getting ID checked
+[10982] ServerClientHelper_12: Done helping with method, Responding to Client
+[10982] ServerClientHelper_3: IDChecker_1 ready to help next voter
+[10982] ServerClientHelper_12: Getting method to run
+[10982] ServerClientHelper_14: Voter_18 getting ID checked
+[10982] ServerClientHelper_14: Done helping with method, Responding to Client
+[10982] ServerClientHelper_14: Getting method to run
+[11165] ServerClientHelper_4: Client has requested to run method 4
+[11165] ServerClientHelper_4: Voter_1 is entering the kiosk line
+[11165] ServerClientHelper_0: Done helping with method, Responding to Client
+[11165] ServerClientHelper_0: Getting method to run
+[11165] ServerClientHelper_0: Client has requested to run method 1
+[11165] ServerClientHelper_0: KioskHelper_0 ready to help voter at kiosk
+[11166] ServerClientHelper_4: Voter_1 is voting at a kiosk
+[11166] ServerClientHelper_4: Done helping with method, Responding to Client
+[11166] ServerClientHelper_4: Getting method to run
+[11166] ServerClientHelper_5: Client has requested to run method 4
+[11166] ServerClientHelper_5: Voter_0 is entering the kiosk line
+[11576] ServerClientHelper_8: Client has requested to run method 3
+[11576] ServerClientHelper_8: Voter_13 looking for shortest kiosk line
+[11576] ServerClientHelper_8: Voter_13 selected kiosk 1
+[11576] ServerClientHelper_8: Done helping with method, Responding to Client
+[11576] ServerClientHelper_8: Getting method to run
+[11743] ServerClientHelper_10: Client has requested to run method 3
+[11743] ServerClientHelper_11: Client has requested to run method 3
+[11743] ServerClientHelper_10: Voter_15 looking for shortest kiosk line
+[11743] ServerClientHelper_11: Voter_14 looking for shortest kiosk line
+[11743] ServerClientHelper_10: Voter_15 selected kiosk 1
+[11743] ServerClientHelper_10: Done helping with method, Responding to Client
+[11743] ServerClientHelper_11: Voter_14 selected kiosk 1
+[11743] ServerClientHelper_11: Done helping with method, Responding to Client
+[11743] ServerClientHelper_10: Getting method to run
+[11743] ServerClientHelper_11: Getting method to run
+[12111] ServerClientHelper_9: Client has requested to run method 4
+[12111] ServerClientHelper_9: Voter_12 is entering the kiosk line
+[13131] ServerClientHelper_13: Client has requested to run method 2
+[13131] ServerClientHelper_13: Voter_16 exiting the ID line
+[13131] ServerClientHelper_13: Voter_16 exited the ID line
+[13131] ServerClientHelper_13: Done helping with method, Responding to Client
+[13131] ServerClientHelper_1: IDChecker_0 helping a voter
+[13131] ServerClientHelper_1: Done helping with method, Responding to Client
+[13131] ServerClientHelper_13: Getting method to run
+[13131] ServerClientHelper_1: Getting method to run
+[13298] ServerClientHelper_14: Client has requested to run method 2
+[13298] ServerClientHelper_14: Voter_18 exiting the ID line
+[13298] ServerClientHelper_14: Voter_18 exited the ID line
+[13298] ServerClientHelper_14: Done helping with method, Responding to Client
+[13298] ServerClientHelper_2: IDChecker_2 helping a voter
+[13298] ServerClientHelper_14: Getting method to run
+[13298] ServerClientHelper_2: Done helping with method, Responding to Client
+[13298] ServerClientHelper_2: Getting method to run
+[13300] ServerClientHelper_12: Client has requested to run method 2
+[13300] ServerClientHelper_12: Voter_17 exiting the ID line
+[13300] ServerClientHelper_12: Voter_17 exited the ID line
+[13300] ServerClientHelper_12: Done helping with method, Responding to Client
+[13300] ServerClientHelper_3: IDChecker_1 helping a voter
+[13300] ServerClientHelper_3: Done helping with method, Responding to Client
+[13300] ServerClientHelper_12: Getting method to run
+[13300] ServerClientHelper_3: Getting method to run
+[14955] ServerClientHelper_1: Client has requested to run method 1
+[14955] ServerClientHelper_1: IDChecker_0 ready to help next voter
+[14955] ServerClientHelper_15: Voter_19 getting ID checked
+[14955] ServerClientHelper_15: Done helping with method, Responding to Client
+[14955] ServerClientHelper_15: Getting method to run
+[15120] ServerClientHelper_2: Client has requested to run method 1
+[15120] ServerClientHelper_2: IDChecker_2 ready to help next voter
+[15120] ServerClientHelper_17: Voter_3 getting ID checked
+[15120] ServerClientHelper_17: Done helping with method, Responding to Client
+[15120] ServerClientHelper_17: Getting method to run
+[15122] ServerClientHelper_3: Client has requested to run method 1
+[15122] ServerClientHelper_3: IDChecker_1 ready to help next voter
+[15122] ServerClientHelper_18: Voter_2 getting ID checked
+[15122] ServerClientHelper_18: Done helping with method, Responding to Client
+[15122] ServerClientHelper_18: Getting method to run
+[15730] ServerClientHelper_8: Client has requested to run method 4
+[15730] ServerClientHelper_8: Voter_13 is entering the kiosk line
+[15730] ServerClientHelper_26: Done helping with method, Responding to Client
+[15730] ServerClientHelper_26: Getting method to run
+[15730] ServerClientHelper_26: Client has requested to run method 1
+[15730] ServerClientHelper_26: KioskHelper_1 ready to help voter at kiosk
+[15730] ServerClientHelper_8: Voter_13 is voting at a kiosk
+[15730] ServerClientHelper_8: Done helping with method, Responding to Client
+[15730] ServerClientHelper_8: Getting method to run
+[15814] ServerClientHelper_13: Client has requested to run method 3
+[15814] ServerClientHelper_13: Voter_16 looking for shortest kiosk line
+[15814] ServerClientHelper_13: Voter_16 selected kiosk 1
+[15814] ServerClientHelper_13: Done helping with method, Responding to Client
+[15814] ServerClientHelper_13: Getting method to run
+[15897] ServerClientHelper_11: Client has requested to run method 4
+[15897] ServerClientHelper_10: Client has requested to run method 4
+[15897] ServerClientHelper_10: Voter_15 is entering the kiosk line
+[15897] ServerClientHelper_11: Voter_14 is entering the kiosk line
+[15979] ServerClientHelper_14: Client has requested to run method 3
+[15979] ServerClientHelper_14: Voter_18 looking for shortest kiosk line
+[15979] ServerClientHelper_14: Voter_18 selected kiosk 2
+[15979] ServerClientHelper_14: Done helping with method, Responding to Client
+[15979] ServerClientHelper_14: Getting method to run
+[15984] ServerClientHelper_12: Client has requested to run method 3
+[15984] ServerClientHelper_12: Voter_17 looking for shortest kiosk line
+[15984] ServerClientHelper_12: Voter_17 selected kiosk 2
+[15984] ServerClientHelper_12: Done helping with method, Responding to Client
+[15984] ServerClientHelper_12: Getting method to run
+[16075] ServerClientHelper_4: Client has requested to run method 5
+[16075] ServerClientHelper_4: Voter_1 is exiting the kiosk line
+[16075] ServerClientHelper_0: Done helping with method, Responding to Client
+[16075] ServerClientHelper_4: Voter_1 exited kiosk line
+[16075] ServerClientHelper_4: Done helping with method, Responding to Client
+[16075] ServerClientHelper_0: Getting method to run
+[16075] ServerClientHelper_4: Getting method to run
+[16075] ServerClientHelper_0: Client has requested to run method 1
+[16075] ServerClientHelper_0: KioskHelper_0 ready to help voter at kiosk
+[16075] ServerClientHelper_5: Voter_0 is voting at a kiosk
+[16075] ServerClientHelper_5: Done helping with method, Responding to Client
+[16075] ServerClientHelper_5: Getting method to run
+[17271] ServerClientHelper_15: Client has requested to run method 2
+[17271] ServerClientHelper_15: Voter_19 exiting the ID line
+[17271] ServerClientHelper_15: Voter_19 exited the ID line
+[17271] ServerClientHelper_15: Done helping with method, Responding to Client
+[17271] ServerClientHelper_1: IDChecker_0 helping a voter
+[17271] ServerClientHelper_1: Done helping with method, Responding to Client
+[17271] ServerClientHelper_15: Getting method to run
+[17271] ServerClientHelper_1: Getting method to run
+[18149] ServerClientHelper_17: Client has requested to run method 2
+[18149] ServerClientHelper_17: Voter_3 exiting the ID line
+[18149] ServerClientHelper_17: Voter_3 exited the ID line
+[18149] ServerClientHelper_17: Done helping with method, Responding to Client
+[18149] ServerClientHelper_2: IDChecker_2 helping a voter
+[18149] ServerClientHelper_2: Done helping with method, Responding to Client
+[18149] ServerClientHelper_17: Getting method to run
+[18149] ServerClientHelper_2: Getting method to run
+[18151] ServerClientHelper_18: Client has requested to run method 2
+[18151] ServerClientHelper_18: Voter_2 exiting the ID line
+[18151] ServerClientHelper_18: Voter_2 exited the ID line
+[18151] ServerClientHelper_18: Done helping with method, Responding to Client
+[18151] ServerClientHelper_3: IDChecker_1 helping a voter
+[18151] ServerClientHelper_3: Done helping with method, Responding to Client
+[18151] ServerClientHelper_18: Getting method to run
+[18151] ServerClientHelper_3: Getting method to run
+[18369] ServerClientHelper_8: Client has requested to run method 5
+[18369] ServerClientHelper_8: Voter_13 is exiting the kiosk line
+[18369] ServerClientHelper_8: Voter_13 exited kiosk line
+[18369] ServerClientHelper_8: Done helping with method, Responding to Client
+[18369] ServerClientHelper_26: Done helping with method, Responding to Client
+[18369] ServerClientHelper_8: Getting method to run
+[18369] ServerClientHelper_26: Getting method to run
+[18369] ServerClientHelper_26: Client has requested to run method 1
+[18369] ServerClientHelper_26: KioskHelper_1 ready to help voter at kiosk
+[18369] ServerClientHelper_10: Voter_15 is voting at a kiosk
+[18369] ServerClientHelper_10: Done helping with method, Responding to Client
+[18369] ServerClientHelper_10: Getting method to run
+[18376] ServerClientHelper_1: Client has requested to run method 1
+[18376] ServerClientHelper_1: IDChecker_0 ready to help next voter
+[18376] ServerClientHelper_16: Voter_4 getting ID checked
+[18376] ServerClientHelper_16: Done helping with method, Responding to Client
+[18376] ServerClientHelper_16: Getting method to run
+[18460] ServerClientHelper_4: Client has requested to run method 6
+[18460] ServerClientHelper_4: Voter_1 is entering the scan machine line
+[19254] ServerClientHelper_2: Client has requested to run method 1
+[19254] ServerClientHelper_2: IDChecker_2 ready to help next voter
+[19254] ServerClientHelper_21: Voter_7 getting ID checked
+[19254] ServerClientHelper_21: Done helping with method, Responding to Client
+[19254] ServerClientHelper_21: Getting method to run
+[19256] ServerClientHelper_3: Client has requested to run method 1
+[19256] ServerClientHelper_3: IDChecker_1 ready to help next voter
+[19256] ServerClientHelper_22: Voter_8 getting ID checked
+[19256] ServerClientHelper_22: Done helping with method, Responding to Client
+[19256] ServerClientHelper_22: Getting method to run
+[19954] ServerClientHelper_15: Client has requested to run method 3
+[19954] ServerClientHelper_15: Voter_19 looking for shortest kiosk line
+[19954] ServerClientHelper_15: Voter_19 selected kiosk 2
+[19954] ServerClientHelper_15: Done helping with method, Responding to Client
+[19954] ServerClientHelper_15: Getting method to run
+[19968] ServerClientHelper_13: Client has requested to run method 4
+[19968] ServerClientHelper_13: Voter_16 is entering the kiosk line
+[20133] ServerClientHelper_14: Client has requested to run method 4
+[20133] ServerClientHelper_14: Voter_18 is entering the kiosk line
+[20133] ServerClientHelper_27: Done helping with method, Responding to Client
+[20133] ServerClientHelper_27: Getting method to run
+[20133] ServerClientHelper_27: Client has requested to run method 1
+[20133] ServerClientHelper_27: KioskHelper_2 ready to help voter at kiosk
+[20133] ServerClientHelper_14: Voter_18 is voting at a kiosk
+[20133] ServerClientHelper_14: Done helping with method, Responding to Client
+[20133] ServerClientHelper_14: Getting method to run
+[20137] ServerClientHelper_12: Client has requested to run method 4
+[20137] ServerClientHelper_12: Voter_17 is entering the kiosk line
+[20983] ServerClientHelper_5: Client has requested to run method 5
+[20983] ServerClientHelper_5: Voter_0 is exiting the kiosk line
+[20983] ServerClientHelper_5: Voter_0 exited kiosk line
+[20983] ServerClientHelper_5: Done helping with method, Responding to Client
+[20983] ServerClientHelper_0: Done helping with method, Responding to Client
+[20983] ServerClientHelper_5: Getting method to run
+[20983] ServerClientHelper_0: Getting method to run
+[20983] ServerClientHelper_0: Client has requested to run method 1
+[20983] ServerClientHelper_0: KioskHelper_0 ready to help voter at kiosk
+[20983] ServerClientHelper_9: Voter_12 is voting at a kiosk
+[20983] ServerClientHelper_9: Done helping with method, Responding to Client
+[20983] ServerClientHelper_9: Getting method to run
+[21012] ServerClientHelper_10: Client has requested to run method 5
+[21012] ServerClientHelper_10: Voter_15 is exiting the kiosk line
+[21012] ServerClientHelper_10: Voter_15 exited kiosk line
+[21012] ServerClientHelper_10: Done helping with method, Responding to Client
+[21012] ServerClientHelper_26: Done helping with method, Responding to Client
+[21012] ServerClientHelper_10: Getting method to run
+[21012] ServerClientHelper_26: Getting method to run
+[21012] ServerClientHelper_26: Client has requested to run method 1
+[21012] ServerClientHelper_26: KioskHelper_1 ready to help voter at kiosk
+[21012] ServerClientHelper_11: Voter_14 is voting at a kiosk
+[21012] ServerClientHelper_11: Done helping with method, Responding to Client
+[21012] ServerClientHelper_11: Getting method to run
+[21405] ServerClientHelper_16: Client has requested to run method 2
+[21405] ServerClientHelper_16: Voter_4 exiting the ID line
+[21405] ServerClientHelper_16: Voter_4 exited the ID line
+[21405] ServerClientHelper_16: Done helping with method, Responding to Client
+[21405] ServerClientHelper_1: IDChecker_0 helping a voter
+[21405] ServerClientHelper_1: Done helping with method, Responding to Client
+[21405] ServerClientHelper_16: Getting method to run
+[21405] ServerClientHelper_1: Getting method to run
+[22011] ServerClientHelper_17: Client has requested to run method 3
+[22011] ServerClientHelper_17: Voter_3 looking for shortest kiosk line
+[22011] ServerClientHelper_17: Voter_3 selected kiosk 0
+[22011] ServerClientHelper_17: Done helping with method, Responding to Client
+[22011] ServerClientHelper_17: Getting method to run
+[22013] ServerClientHelper_18: Client has requested to run method 3
+[22013] ServerClientHelper_18: Voter_2 looking for shortest kiosk line
+[22013] ServerClientHelper_18: Voter_2 selected kiosk 0
+[22013] ServerClientHelper_18: Done helping with method, Responding to Client
+[22013] ServerClientHelper_18: Getting method to run
+[22161] ServerClientHelper_8: Client has requested to run method 6
+[22161] ServerClientHelper_8: Voter_13 is entering the scan machine line
+[22282] ServerClientHelper_21: Client has requested to run method 2
+[22282] ServerClientHelper_21: Voter_7 exiting the ID line
+[22282] ServerClientHelper_21: Voter_7 exited the ID line
+[22282] ServerClientHelper_21: Done helping with method, Responding to Client
+[22282] ServerClientHelper_2: IDChecker_2 helping a voter
+[22282] ServerClientHelper_2: Done helping with method, Responding to Client
+[22282] ServerClientHelper_21: Getting method to run
+[22282] ServerClientHelper_2: Getting method to run
+[22285] ServerClientHelper_22: Client has requested to run method 2
+[22285] ServerClientHelper_22: Voter_8 exiting the ID line
+[22285] ServerClientHelper_22: Voter_8 exited the ID line
+[22285] ServerClientHelper_22: Done helping with method, Responding to Client
+[22285] ServerClientHelper_3: IDChecker_1 helping a voter
+[22285] ServerClientHelper_22: Getting method to run
+[22285] ServerClientHelper_3: Done helping with method, Responding to Client
+[22285] ServerClientHelper_3: Getting method to run
+[22468] ServerClientHelper_1: Client has requested to run method 1
+[22468] ServerClientHelper_1: IDChecker_0 ready to help next voter
+[22468] ServerClientHelper_19: Voter_6 getting ID checked
+[22468] ServerClientHelper_19: Done helping with method, Responding to Client
+[22468] ServerClientHelper_19: Getting method to run
+[22772] ServerClientHelper_14: Client has requested to run method 5
+[22772] ServerClientHelper_14: Voter_18 is exiting the kiosk line
+[22772] ServerClientHelper_14: Voter_18 exited kiosk line
+[22772] ServerClientHelper_14: Done helping with method, Responding to Client
+[22772] ServerClientHelper_27: Done helping with method, Responding to Client
+[22772] ServerClientHelper_14: Getting method to run
+[22772] ServerClientHelper_27: Getting method to run
+[22772] ServerClientHelper_27: Client has requested to run method 1
+[22772] ServerClientHelper_27: KioskHelper_2 ready to help voter at kiosk
+[22772] ServerClientHelper_12: Voter_17 is voting at a kiosk
+[22772] ServerClientHelper_12: Done helping with method, Responding to Client
+[22772] ServerClientHelper_12: Getting method to run
+[23345] ServerClientHelper_2: Client has requested to run method 1
+[23345] ServerClientHelper_2: IDChecker_2 ready to help next voter
+[23345] ServerClientHelper_23: Voter_9 getting ID checked
+[23345] ServerClientHelper_23: Done helping with method, Responding to Client
+[23345] ServerClientHelper_23: Getting method to run
+[23350] ServerClientHelper_3: Client has requested to run method 1
+[23350] ServerClientHelper_3: IDChecker_1 ready to help next voter
+[23350] ServerClientHelper_24: Voter_10 getting ID checked
+[23350] ServerClientHelper_24: Done helping with method, Responding to Client
+[23350] ServerClientHelper_24: Getting method to run
+[23369] ServerClientHelper_5: Client has requested to run method 6
+[23369] ServerClientHelper_5: Voter_0 is entering the scan machine line
+[23624] ServerClientHelper_9: Client has requested to run method 5
+[23624] ServerClientHelper_9: Voter_12 is exiting the kiosk line
+[23624] ServerClientHelper_9: Voter_12 exited kiosk line
+[23624] ServerClientHelper_9: Done helping with method, Responding to Client
+[23624] ServerClientHelper_0: Done helping with method, Responding to Client
+[23624] ServerClientHelper_0: Getting method to run
+[23624] ServerClientHelper_9: Getting method to run
+[23624] ServerClientHelper_0: Client has requested to run method 1
+[23624] ServerClientHelper_0: KioskHelper_0 ready to help voter at kiosk
+[23651] ServerClientHelper_11: Client has requested to run method 5
+[23651] ServerClientHelper_11: Voter_14 is exiting the kiosk line
+[23651] ServerClientHelper_11: Voter_14 exited kiosk line
+[23651] ServerClientHelper_11: Done helping with method, Responding to Client
+[23651] ServerClientHelper_26: Done helping with method, Responding to Client
+[23651] ServerClientHelper_11: Getting method to run
+[23651] ServerClientHelper_26: Getting method to run
+[23651] ServerClientHelper_26: Client has requested to run method 1
+[23651] ServerClientHelper_26: KioskHelper_1 ready to help voter at kiosk
+[23651] ServerClientHelper_13: Voter_16 is voting at a kiosk
+[23651] ServerClientHelper_13: Done helping with method, Responding to Client
+[23651] ServerClientHelper_13: Getting method to run
+[24108] ServerClientHelper_15: Client has requested to run method 4
+[24108] ServerClientHelper_15: Voter_19 is entering the kiosk line
+[24802] ServerClientHelper_10: Client has requested to run method 6
+[24802] ServerClientHelper_10: Voter_15 is entering the scan machine line
+[24802] ServerClientHelper_7: Done helping with method, Responding to Client
+[24802] ServerClientHelper_7: Getting method to run
+[25267] ServerClientHelper_16: Client has requested to run method 3
+[25267] ServerClientHelper_16: Voter_4 looking for shortest kiosk line
+[25267] ServerClientHelper_16: Voter_4 selected kiosk 0
+[25267] ServerClientHelper_16: Done helping with method, Responding to Client
+[25267] ServerClientHelper_16: Getting method to run
+[25411] ServerClientHelper_12: Client has requested to run method 5
+[25411] ServerClientHelper_12: Voter_17 is exiting the kiosk line
+[25411] ServerClientHelper_12: Voter_17 exited kiosk line
+[25411] ServerClientHelper_12: Done helping with method, Responding to Client
+[25411] ServerClientHelper_27: Done helping with method, Responding to Client
+[25411] ServerClientHelper_12: Getting method to run
+[25411] ServerClientHelper_27: Getting method to run
+[25411] ServerClientHelper_27: Client has requested to run method 1
+[25411] ServerClientHelper_27: KioskHelper_2 ready to help voter at kiosk
+[25411] ServerClientHelper_15: Voter_19 is voting at a kiosk
+[25411] ServerClientHelper_15: Done helping with method, Responding to Client
+[25411] ServerClientHelper_15: Getting method to run
+[25498] ServerClientHelper_19: Client has requested to run method 2
+[25498] ServerClientHelper_19: Voter_6 exiting the ID line
+[25498] ServerClientHelper_19: Voter_6 exited the ID line
+[25498] ServerClientHelper_19: Done helping with method, Responding to Client
+[25498] ServerClientHelper_1: IDChecker_0 helping a voter
+[25498] ServerClientHelper_1: Done helping with method, Responding to Client
+[25498] ServerClientHelper_19: Getting method to run
+[25498] ServerClientHelper_1: Getting method to run
+[26144] ServerClientHelper_21: Client has requested to run method 3
+[26144] ServerClientHelper_21: Voter_7 looking for shortest kiosk line
+[26144] ServerClientHelper_21: Voter_7 selected kiosk 0
+[26144] ServerClientHelper_21: Done helping with method, Responding to Client
+[26144] ServerClientHelper_21: Getting method to run
+[26147] ServerClientHelper_22: Client has requested to run method 3
+[26147] ServerClientHelper_22: Voter_8 looking for shortest kiosk line
+[26147] ServerClientHelper_22: Voter_8 selected kiosk 0
+[26147] ServerClientHelper_22: Done helping with method, Responding to Client
+[26147] ServerClientHelper_22: Getting method to run
+[26291] ServerClientHelper_13: Client has requested to run method 5
+[26291] ServerClientHelper_13: Voter_16 is exiting the kiosk line
+[26291] ServerClientHelper_13: Voter_16 exited kiosk line
+[26291] ServerClientHelper_13: Done helping with method, Responding to Client
+[26291] ServerClientHelper_26: Done helping with method, Responding to Client
+[26291] ServerClientHelper_13: Getting method to run
+[26291] ServerClientHelper_26: Getting method to run
+[26291] ServerClientHelper_26: Client has requested to run method 1
+[26291] ServerClientHelper_26: KioskHelper_1 ready to help voter at kiosk
+[26300] ServerClientHelper_18: Client has requested to run method 4
+[26300] ServerClientHelper_18: Voter_2 is entering the kiosk line
+[26300] ServerClientHelper_17: Client has requested to run method 4
+[26300] ServerClientHelper_0: Done helping with method, Responding to Client
+[26300] ServerClientHelper_17: Voter_3 is entering the kiosk line
+[26300] ServerClientHelper_0: Getting method to run
+[26300] ServerClientHelper_0: Client has requested to run method 1
+[26300] ServerClientHelper_0: KioskHelper_0 ready to help voter at kiosk
+[26300] ServerClientHelper_18: Voter_2 is voting at a kiosk
+[26300] ServerClientHelper_18: Done helping with method, Responding to Client
+[26300] ServerClientHelper_18: Getting method to run
+[26375] ServerClientHelper_23: Client has requested to run method 2
+[26375] ServerClientHelper_23: Voter_9 exiting the ID line
+[26375] ServerClientHelper_23: Voter_9 exited the ID line
+[26375] ServerClientHelper_23: Done helping with method, Responding to Client
+[26375] ServerClientHelper_2: IDChecker_2 helping a voter
+[26375] ServerClientHelper_2: Done helping with method, Responding to Client
+[26375] ServerClientHelper_23: Getting method to run
+[26375] ServerClientHelper_2: Getting method to run
+[26379] ServerClientHelper_24: Client has requested to run method 2
+[26379] ServerClientHelper_24: Voter_10 exiting the ID line
+[26379] ServerClientHelper_24: Voter_10 exited the ID line
+[26379] ServerClientHelper_24: Done helping with method, Responding to Client
+[26379] ServerClientHelper_3: IDChecker_1 helping a voter
+[26379] ServerClientHelper_3: Done helping with method, Responding to Client
+[26379] ServerClientHelper_24: Getting method to run
+[26379] ServerClientHelper_3: Getting method to run
+[26398] ServerClientHelper_7: Client has requested to run method 1
+[26398] ServerClientHelper_7: ScanHelper_1 ready to help voters at scanner
+[26398] ServerClientHelper_7: Done helping with method, Responding to Client
+[26398] ServerClientHelper_7: Getting method to run
+[26398] ServerClientHelper_4: Voter_1 is scanning their ballot
+[26398] ServerClientHelper_4: Done helping with method, Responding to Client
+[26398] ServerClientHelper_8: Voter_13 is scanning their ballot
+[26398] ServerClientHelper_8: Done helping with method, Responding to Client
+[26398] ServerClientHelper_10: Voter_15 is scanning their ballot
+[26398] ServerClientHelper_10: Done helping with method, Responding to Client
+[26398] ServerClientHelper_8: Getting method to run
+[26398] ServerClientHelper_4: Getting method to run
+[26398] ServerClientHelper_10: Getting method to run
+[26398] ServerClientHelper_5: Voter_0 is scanning their ballot
+[26398] ServerClientHelper_5: Done helping with method, Responding to Client
+[26398] ServerClientHelper_5: Getting method to run
+[26561] ServerClientHelper_14: Client has requested to run method 6
+[26561] ServerClientHelper_14: Voter_18 is entering the scan machine line
+[27365] ServerClientHelper_1: Client has requested to run method 1
+[27365] ServerClientHelper_1: IDChecker_0 ready to help next voter
+[27365] ServerClientHelper_20: Voter_5 getting ID checked
+[27365] ServerClientHelper_20: Done helping with method, Responding to Client
+[27365] ServerClientHelper_20: Getting method to run
+[27416] ServerClientHelper_9: Client has requested to run method 6
+[27416] ServerClientHelper_9: Voter_12 is entering the scan machine line
+[27441] ServerClientHelper_11: Client has requested to run method 6
+[27441] ServerClientHelper_11: Voter_14 is entering the scan machine line
+[27997] ServerClientHelper_7: Client has requested to run method 1
+[27997] ServerClientHelper_7: ScanHelper_1 ready to help voters at scanner
+[28052] ServerClientHelper_15: Client has requested to run method 5
+[28052] ServerClientHelper_15: Voter_19 is exiting the kiosk line
+[28052] ServerClientHelper_15: Voter_19 exited kiosk line
+[28052] ServerClientHelper_15: Done helping with method, Responding to Client
+[28052] ServerClientHelper_27: Done helping with method, Responding to Client
+[28052] ServerClientHelper_15: Getting method to run
+[28052] ServerClientHelper_27: Getting method to run
+[28052] ServerClientHelper_27: Client has requested to run method 1
+[28052] ServerClientHelper_27: KioskHelper_2 ready to help voter at kiosk
+[28241] ServerClientHelper_2: Client has requested to run method 1
+[28241] ServerClientHelper_2: IDChecker_2 ready to help next voter
+[28241] ServerClientHelper_25: Voter_11 getting ID checked
+[28241] ServerClientHelper_25: Done helping with method, Responding to Client
+[28241] ServerClientHelper_25: Getting method to run
+[28245] ServerClientHelper_3: Client has requested to run method 1
+[28245] ServerClientHelper_3: IDChecker_1 ready to help next voter
+[28245] ServerClientHelper_3: Done helping with method, Responding to Client
+[28245] ServerClientHelper_3: Getting method to run
+[29200] ServerClientHelper_18: Client has requested to run method 5
+[29200] ServerClientHelper_18: Voter_2 is exiting the kiosk line
+[29200] ServerClientHelper_18: Voter_2 exited kiosk line
+[29200] ServerClientHelper_18: Done helping with method, Responding to Client
+[29200] ServerClientHelper_0: Done helping with method, Responding to Client
+[29200] ServerClientHelper_18: Getting method to run
+[29200] ServerClientHelper_0: Getting method to run
+[29200] ServerClientHelper_0: Client has requested to run method 1
+[29200] ServerClientHelper_0: KioskHelper_0 ready to help voter at kiosk
+[29200] ServerClientHelper_17: Voter_3 is voting at a kiosk
+[29200] ServerClientHelper_17: Done helping with method, Responding to Client
+[29200] ServerClientHelper_17: Getting method to run
+[29203] ServerClientHelper_12: Client has requested to run method 6
+[29203] ServerClientHelper_12: Voter_17 is entering the scan machine line
+[29203] ServerClientHelper_6: Done helping with method, Responding to Client
+[29203] ServerClientHelper_6: Getting method to run
+[29360] ServerClientHelper_19: Client has requested to run method 3
+[29360] ServerClientHelper_19: Voter_6 looking for shortest kiosk line
+[29360] ServerClientHelper_19: Voter_6 selected kiosk 0
+[29360] ServerClientHelper_19: Done helping with method, Responding to Client
+[29360] ServerClientHelper_19: Getting method to run
+[29505] ServerClientHelper_8: Client has requested to run method 7
+[29505] ServerClientHelper_10: Client has requested to run method 7
+[29505] ServerClientHelper_8: Voter_13 seeing if they need help
+[29505] ServerClientHelper_10: Voter_15 seeing if they need help
+[29505] ServerClientHelper_10: Voter_15 didn't need help
+[29505] ServerClientHelper_10: Done helping with method, Responding to Client
+[29505] ServerClientHelper_8: Voter_13 didn't need help
+[29505] ServerClientHelper_8: Done helping with method, Responding to Client
+[29505] ServerClientHelper_10: Getting method to run
+[29505] ServerClientHelper_8: Getting method to run
+[29555] ServerClientHelper_16: Client has requested to run method 4
+[29555] ServerClientHelper_16: Voter_4 is entering the kiosk line
+[30080] ServerClientHelper_13: Client has requested to run method 6
+[30080] ServerClientHelper_13: Voter_16 is entering the scan machine line
+[30080] ServerClientHelper_7: Done helping with method, Responding to Client
+[30080] ServerClientHelper_7: Getting method to run
+[30200] ServerClientHelper_5: Client has requested to run method 7
+[30200] ServerClientHelper_5: Voter_0 seeing if they need help
+[30200] ServerClientHelper_4: Client has requested to run method 7
+[30200] ServerClientHelper_4: Voter_1 seeing if they need help
+[30200] ServerClientHelper_5: Voter_0 Needs help scanning, getting a helper
+[30200] ServerClientHelper_4: Voter_1 Needs help scanning, getting a helper
+[30209] ServerClientHelper_3: Client has requested to run method DONE
+[30209] ServerClientHelper_3: Client has signaled they are done, exiting
+[30238] ServerClientHelper_23: Client has requested to run method 3
+[30238] ServerClientHelper_23: Voter_9 looking for shortest kiosk line
+[30238] ServerClientHelper_23: Voter_9 selected kiosk 1
+[30238] ServerClientHelper_23: Done helping with method, Responding to Client
+[30238] ServerClientHelper_23: Getting method to run
+[30241] ServerClientHelper_24: Client has requested to run method 3
+[30241] ServerClientHelper_24: Voter_10 looking for shortest kiosk line
+[30241] ServerClientHelper_24: Voter_10 selected kiosk 1
+[30241] ServerClientHelper_24: Done helping with method, Responding to Client
+[30241] ServerClientHelper_24: Getting method to run
+[30393] ServerClientHelper_20: Client has requested to run method 2
+[30393] ServerClientHelper_20: Voter_5 exiting the ID line
+[30393] ServerClientHelper_20: Voter_5 exited the ID line
+[30393] ServerClientHelper_20: Done helping with method, Responding to Client
+[30393] ServerClientHelper_1: IDChecker_0 helping a voter
+[30393] ServerClientHelper_1: Done helping with method, Responding to Client
+[30393] ServerClientHelper_20: Getting method to run
+[30393] ServerClientHelper_1: Getting method to run
+[30432] ServerClientHelper_21: Client has requested to run method 4
+[30432] ServerClientHelper_21: Voter_7 is entering the kiosk line
+[30435] ServerClientHelper_22: Client has requested to run method 4
+[30435] ServerClientHelper_22: Voter_8 is entering the kiosk line
+[30801] ServerClientHelper_6: Client has requested to run method 1
+[30801] ServerClientHelper_6: ScanHelper_0 ready to help voters at scanner
+[30801] ServerClientHelper_5: Voter_0 Being helped
+[31271] ServerClientHelper_25: Client has requested to run method 2
+[31271] ServerClientHelper_25: Voter_11 exiting the ID line
+[31271] ServerClientHelper_25: Voter_11 exited the ID line
+[31271] ServerClientHelper_25: Done helping with method, Responding to Client
+[31271] ServerClientHelper_2: IDChecker_2 helping a voter
+[31271] ServerClientHelper_2: Done helping with method, Responding to Client
+[31271] ServerClientHelper_25: Getting method to run
+[31271] ServerClientHelper_2: Getting method to run
+[31525] ServerClientHelper_7: Client has requested to run method 1
+[31525] ServerClientHelper_7: ScanHelper_1 ready to help voters at scanner
+[31525] ServerClientHelper_4: Voter_1 Being helped
+[31843] ServerClientHelper_15: Client has requested to run method 6
+[31843] ServerClientHelper_15: Voter_19 is entering the scan machine line
+[32100] ServerClientHelper_17: Client has requested to run method 5
+[32100] ServerClientHelper_17: Voter_3 is exiting the kiosk line
+[32100] ServerClientHelper_17: Voter_3 exited kiosk line
+[32100] ServerClientHelper_17: Done helping with method, Responding to Client
+[32100] ServerClientHelper_0: Done helping with method, Responding to Client
+[32100] ServerClientHelper_17: Getting method to run
+[32100] ServerClientHelper_0: Getting method to run
+[32100] ServerClientHelper_0: Client has requested to run method 1
+[32100] ServerClientHelper_0: KioskHelper_0 ready to help voter at kiosk
+[32100] ServerClientHelper_16: Voter_4 is voting at a kiosk
+[32100] ServerClientHelper_16: Done helping with method, Responding to Client
+[32100] ServerClientHelper_16: Getting method to run
+[32137] ServerClientHelper_18: Client has requested to run method 6
+[32137] ServerClientHelper_18: Voter_2 is entering the scan machine line
+[32355] ServerClientHelper_1: Client has requested to run method 1
+[32355] ServerClientHelper_1: IDChecker_0 ready to help next voter
+[32355] ServerClientHelper_1: Done helping with method, Responding to Client
+[32355] ServerClientHelper_1: Getting method to run
+[33233] ServerClientHelper_2: Client has requested to run method 1
+[33233] ServerClientHelper_2: IDChecker_2 ready to help next voter
+[33233] ServerClientHelper_2: Done helping with method, Responding to Client
+[33233] ServerClientHelper_2: Getting method to run
+[33572] ServerClientHelper_10: Client has requested to run method 8
+[33572] ServerClientHelper_8: Client has requested to run method 8
+[33572] ServerClientHelper_8: Voter_13 Leaving scanning group
+[33572] ServerClientHelper_10: Voter_15 Leaving scanning group
+[33572] ServerClientHelper_8: Voter_13 left scanning group
+[33572] ServerClientHelper_8: Done helping with method, Responding to Client
+[33572] ServerClientHelper_10: Voter_15 left scanning group
+[33572] ServerClientHelper_10: Done helping with method, Responding to Client
+[33572] ServerClientHelper_8: Getting method to run
+[33572] ServerClientHelper_10: Getting method to run
+[33649] ServerClientHelper_19: Client has requested to run method 4
+[33649] ServerClientHelper_19: Voter_6 is entering the kiosk line
+[33666] ServerClientHelper_1: Client has requested to run method DONE
+[33666] ServerClientHelper_1: Client has signaled they are done, exiting
+[34255] ServerClientHelper_20: Client has requested to run method 3
+[34255] ServerClientHelper_20: Voter_5 looking for shortest kiosk line
+[34255] ServerClientHelper_20: Voter_5 selected kiosk 1
+[34255] ServerClientHelper_20: Done helping with method, Responding to Client
+[34255] ServerClientHelper_20: Getting method to run
+[34525] ServerClientHelper_23: Client has requested to run method 4
+[34525] ServerClientHelper_23: Voter_9 is entering the kiosk line
+[34525] ServerClientHelper_26: Done helping with method, Responding to Client
+[34525] ServerClientHelper_26: Getting method to run
+[34525] ServerClientHelper_26: Client has requested to run method 1
+[34525] ServerClientHelper_26: KioskHelper_1 ready to help voter at kiosk
+[34525] ServerClientHelper_23: Voter_9 is voting at a kiosk
+[34525] ServerClientHelper_23: Done helping with method, Responding to Client
+[34525] ServerClientHelper_23: Getting method to run
+[34528] ServerClientHelper_24: Client has requested to run method 4
+[34528] ServerClientHelper_24: Voter_10 is entering the kiosk line
+[34528] ServerClientHelper_4: Voter_1 done being helped
+[34528] ServerClientHelper_4: Done helping with method, Responding to Client
+[34528] ServerClientHelper_6: Done helping with method, Responding to Client
+[34528] ServerClientHelper_6: Getting method to run
+[34528] ServerClientHelper_4: Getting method to run
+[34543] ServerClientHelper_2: Client has requested to run method DONE
+[34543] ServerClientHelper_2: Client has signaled they are done, exiting
+[34587] ServerClientHelper_5: Voter_0 done being helped
+[34587] ServerClientHelper_5: Done helping with method, Responding to Client
+[34587] ServerClientHelper_7: Done helping with method, Responding to Client
+[34587] ServerClientHelper_7: Getting method to run
+[34587] ServerClientHelper_5: Getting method to run
+[35001] ServerClientHelper_16: Client has requested to run method 5
+[35001] ServerClientHelper_16: Voter_4 is exiting the kiosk line
+[35001] ServerClientHelper_16: Voter_4 exited kiosk line
+[35001] ServerClientHelper_16: Done helping with method, Responding to Client
+[35001] ServerClientHelper_0: Done helping with method, Responding to Client
+[35001] ServerClientHelper_16: Getting method to run
+[35001] ServerClientHelper_0: Getting method to run
+[35001] ServerClientHelper_0: Client has requested to run method 1
+[35001] ServerClientHelper_0: KioskHelper_0 ready to help voter at kiosk
+[35001] ServerClientHelper_21: Voter_7 is voting at a kiosk
+[35001] ServerClientHelper_21: Done helping with method, Responding to Client
+[35001] ServerClientHelper_21: Getting method to run
+[35038] ServerClientHelper_17: Client has requested to run method 6
+[35038] ServerClientHelper_17: Voter_3 is entering the scan machine line
+[35133] ServerClientHelper_25: Client has requested to run method 3
+[35133] ServerClientHelper_25: Voter_11 looking for shortest kiosk line
+[35133] ServerClientHelper_25: Voter_11 selected kiosk 2
+[35133] ServerClientHelper_25: Done helping with method, Responding to Client
+[35133] ServerClientHelper_25: Getting method to run
+[35603] ServerClientHelper_10: Client has requested to run method DONE
+[35603] ServerClientHelper_10: Client has signaled they are done, exiting
+[35603] ServerClientHelper_8: Client has requested to run method DONE
+[35603] ServerClientHelper_8: Client has signaled they are done, exiting
+[36109] ServerClientHelper_7: Client has requested to run method 1
+[36109] ServerClientHelper_7: ScanHelper_1 ready to help voters at scanner
+[36128] ServerClientHelper_6: Client has requested to run method 1
+[36128] ServerClientHelper_6: ScanHelper_0 ready to help voters at scanner
+[37426] ServerClientHelper_23: Client has requested to run method 5
+[37426] ServerClientHelper_23: Voter_9 is exiting the kiosk line
+[37426] ServerClientHelper_23: Voter_9 exited kiosk line
+[37426] ServerClientHelper_23: Done helping with method, Responding to Client
+[37426] ServerClientHelper_26: Done helping with method, Responding to Client
+[37426] ServerClientHelper_23: Getting method to run
+[37426] ServerClientHelper_26: Getting method to run
+[37426] ServerClientHelper_26: Client has requested to run method 1
+[37426] ServerClientHelper_26: KioskHelper_1 ready to help voter at kiosk
+[37426] ServerClientHelper_24: Voter_10 is voting at a kiosk
+[37426] ServerClientHelper_24: Done helping with method, Responding to Client
+[37426] ServerClientHelper_24: Getting method to run
+[37902] ServerClientHelper_21: Client has requested to run method 5
+[37902] ServerClientHelper_21: Voter_7 is exiting the kiosk line
+[37902] ServerClientHelper_21: Voter_7 exited kiosk line
+[37902] ServerClientHelper_21: Done helping with method, Responding to Client
+[37902] ServerClientHelper_0: Done helping with method, Responding to Client
+[37902] ServerClientHelper_21: Getting method to run
+[37902] ServerClientHelper_0: Getting method to run
+[37902] ServerClientHelper_0: Client has requested to run method 1
+[37902] ServerClientHelper_0: KioskHelper_0 ready to help voter at kiosk
+[37902] ServerClientHelper_22: Voter_8 is voting at a kiosk
+[37902] ServerClientHelper_22: Done helping with method, Responding to Client
+[37902] ServerClientHelper_22: Getting method to run
+[37940] ServerClientHelper_16: Client has requested to run method 6
+[37940] ServerClientHelper_16: Voter_4 is entering the scan machine line
+[37940] ServerClientHelper_7: Done helping with method, Responding to Client
+[37940] ServerClientHelper_7: Getting method to run
+[38116] ServerClientHelper_4: Client has requested to run method 8
+[38116] ServerClientHelper_4: Voter_1 Leaving scanning group
+[38116] ServerClientHelper_4: Voter_1 left scanning group
+[38116] ServerClientHelper_4: Done helping with method, Responding to Client
+[38116] ServerClientHelper_4: Getting method to run
+[38177] ServerClientHelper_5: Client has requested to run method 8
+[38177] ServerClientHelper_5: Voter_0 Leaving scanning group
+[38177] ServerClientHelper_5: Voter_0 left scanning group
+[38177] ServerClientHelper_5: Done helping with method, Responding to Client
+[38177] ServerClientHelper_6: Done helping with method, Responding to Client
+[38177] ServerClientHelper_5: Getting method to run
+[38177] ServerClientHelper_6: Getting method to run
+[38543] ServerClientHelper_20: Client has requested to run method 4
+[38543] ServerClientHelper_20: Voter_5 is entering the kiosk line
+[39422] ServerClientHelper_25: Client has requested to run method 4
+[39422] ServerClientHelper_25: Voter_11 is entering the kiosk line
+[39422] ServerClientHelper_27: Done helping with method, Responding to Client
+[39422] ServerClientHelper_27: Getting method to run
+[39422] ServerClientHelper_27: Client has requested to run method 1
+[39422] ServerClientHelper_27: KioskHelper_2 ready to help voter at kiosk
+[39422] ServerClientHelper_25: Voter_11 is voting at a kiosk
+[39422] ServerClientHelper_25: Done helping with method, Responding to Client
+[39422] ServerClientHelper_25: Getting method to run
+[39474] ServerClientHelper_7: Client has requested to run method 1
+[39474] ServerClientHelper_7: ScanHelper_1 ready to help voters at scanner
+[39474] ServerClientHelper_7: Done helping with method, Responding to Client
+[39474] ServerClientHelper_7: Getting method to run
+[39474] ServerClientHelper_14: Voter_18 is scanning their ballot
+[39474] ServerClientHelper_9: Voter_12 is scanning their ballot
+[39474] ServerClientHelper_9: Done helping with method, Responding to Client
+[39474] ServerClientHelper_12: Voter_17 is scanning their ballot
+[39474] ServerClientHelper_12: Done helping with method, Responding to Client
+[39474] ServerClientHelper_14: Done helping with method, Responding to Client
+[39474] ServerClientHelper_14: Getting method to run
+[39474] ServerClientHelper_11: Voter_14 is scanning their ballot
+[39474] ServerClientHelper_11: Done helping with method, Responding to Client
+[39474] ServerClientHelper_9: Getting method to run
+[39474] ServerClientHelper_12: Getting method to run
+[39474] ServerClientHelper_11: Getting method to run
+[39621] ServerClientHelper_6: Client has requested to run method 1
+[39621] ServerClientHelper_6: ScanHelper_0 ready to help voters at scanner
+[40326] ServerClientHelper_24: Client has requested to run method 5
+[40326] ServerClientHelper_24: Voter_10 is exiting the kiosk line
+[40326] ServerClientHelper_24: Voter_10 exited kiosk line
+[40326] ServerClientHelper_24: Done helping with method, Responding to Client
+[40326] ServerClientHelper_26: Done helping with method, Responding to Client
+[40326] ServerClientHelper_24: Getting method to run
+[40326] ServerClientHelper_26: Getting method to run
+[40326] ServerClientHelper_26: Client has requested to run method 1
+[40326] ServerClientHelper_26: KioskHelper_1 ready to help voter at kiosk
+[40326] ServerClientHelper_20: Voter_5 is voting at a kiosk
+[40326] ServerClientHelper_20: Done helping with method, Responding to Client
+[40326] ServerClientHelper_20: Getting method to run
+[40363] ServerClientHelper_23: Client has requested to run method 6
+[40363] ServerClientHelper_23: Voter_9 is entering the scan machine line
+[40363] ServerClientHelper_6: Done helping with method, Responding to Client
+[40363] ServerClientHelper_6: Getting method to run
+[40803] ServerClientHelper_22: Client has requested to run method 5
+[40803] ServerClientHelper_22: Voter_8 is exiting the kiosk line
+[40803] ServerClientHelper_22: Voter_8 exited kiosk line
+[40803] ServerClientHelper_22: Done helping with method, Responding to Client
+[40803] ServerClientHelper_22: Getting method to run
+[40803] ServerClientHelper_0: Done helping with method, Responding to Client
+[40803] ServerClientHelper_0: Getting method to run
+[40803] ServerClientHelper_0: Client has requested to run method 1
+[40803] ServerClientHelper_0: KioskHelper_0 ready to help voter at kiosk
+[40803] ServerClientHelper_19: Voter_6 is voting at a kiosk
+[40803] ServerClientHelper_19: Done helping with method, Responding to Client
+[40803] ServerClientHelper_19: Getting method to run
+[40839] ServerClientHelper_21: Client has requested to run method 6
+[40839] ServerClientHelper_21: Voter_7 is entering the scan machine line
+[40886] ServerClientHelper_4: Client has requested to run method DONE
+[40886] ServerClientHelper_4: Client has signaled they are done, exiting
+[40947] ServerClientHelper_5: Client has requested to run method DONE
+[40947] ServerClientHelper_5: Client has signaled they are done, exiting
+[41334] ServerClientHelper_7: Client has requested to run method 1
+[41334] ServerClientHelper_7: ScanHelper_1 ready to help voters at scanner
+[41884] ServerClientHelper_6: Client has requested to run method 1
+[41884] ServerClientHelper_6: ScanHelper_0 ready to help voters at scanner
+[42322] ServerClientHelper_25: Client has requested to run method 5
+[42322] ServerClientHelper_25: Voter_11 is exiting the kiosk line
+[42322] ServerClientHelper_25: Voter_11 exited kiosk line
+[42322] ServerClientHelper_25: Done helping with method, Responding to Client
+[42322] ServerClientHelper_27: Done helping with method, Responding to Client
+[42322] ServerClientHelper_27: Getting method to run
+[42322] ServerClientHelper_25: Getting method to run
+[42322] ServerClientHelper_27: Client has requested to run method 1
+[42322] ServerClientHelper_27: KioskHelper_2 ready to help voter at kiosk
+[42322] ServerClientHelper_27: Done helping with method, Responding to Client
+[42322] ServerClientHelper_27: Getting method to run
+[42581] ServerClientHelper_9: Client has requested to run method 7
+[42581] ServerClientHelper_12: Client has requested to run method 7
+[42581] ServerClientHelper_9: Voter_12 seeing if they need help
+[42581] ServerClientHelper_12: Voter_17 seeing if they need help
+[42581] ServerClientHelper_9: Voter_12 didn't need help
+[42581] ServerClientHelper_9: Done helping with method, Responding to Client
+[42581] ServerClientHelper_12: Voter_17 didn't need help
+[42581] ServerClientHelper_12: Done helping with method, Responding to Client
+[42581] ServerClientHelper_12: Getting method to run
+[42581] ServerClientHelper_9: Getting method to run
+[42581] ServerClientHelper_14: Client has requested to run method 7
+[42581] ServerClientHelper_14: Voter_18 seeing if they need help
+[42581] ServerClientHelper_14: Voter_18 didn't need help
+[42581] ServerClientHelper_14: Done helping with method, Responding to Client
+[42581] ServerClientHelper_14: Getting method to run
+[42583] ServerClientHelper_11: Client has requested to run method 7
+[42583] ServerClientHelper_11: Voter_14 seeing if they need help
+[42583] ServerClientHelper_11: Voter_14 didn't need help
+[42583] ServerClientHelper_11: Done helping with method, Responding to Client
+[42583] ServerClientHelper_11: Getting method to run
+[43228] ServerClientHelper_20: Client has requested to run method 5
+[43228] ServerClientHelper_20: Voter_5 is exiting the kiosk line
+[43228] ServerClientHelper_20: Voter_5 exited kiosk line
+[43228] ServerClientHelper_20: Done helping with method, Responding to Client
+[43228] ServerClientHelper_26: Done helping with method, Responding to Client
+[43228] ServerClientHelper_20: Getting method to run
+[43228] ServerClientHelper_26: Getting method to run
+[43228] ServerClientHelper_26: Client has requested to run method 1
+[43228] ServerClientHelper_26: KioskHelper_1 ready to help voter at kiosk
+[43228] ServerClientHelper_26: Done helping with method, Responding to Client
+[43228] ServerClientHelper_26: Getting method to run
+[43263] ServerClientHelper_24: Client has requested to run method 6
+[43263] ServerClientHelper_24: Voter_10 is entering the scan machine line
+[43263] ServerClientHelper_7: Done helping with method, Responding to Client
+[43263] ServerClientHelper_7: Getting method to run
+[43704] ServerClientHelper_19: Client has requested to run method 5
+[43704] ServerClientHelper_19: Voter_6 is exiting the kiosk line
+[43704] ServerClientHelper_19: Voter_6 exited kiosk line
+[43704] ServerClientHelper_19: Done helping with method, Responding to Client
+[43704] ServerClientHelper_0: Done helping with method, Responding to Client
+[43704] ServerClientHelper_19: Getting method to run
+[43704] ServerClientHelper_0: Getting method to run
+[43704] ServerClientHelper_0: Client has requested to run method 1
+[43704] ServerClientHelper_0: KioskHelper_0 ready to help voter at kiosk
+[43704] ServerClientHelper_0: Done helping with method, Responding to Client
+[43704] ServerClientHelper_0: Getting method to run
+[43741] ServerClientHelper_22: Client has requested to run method 6
+[43741] ServerClientHelper_22: Voter_8 is entering the scan machine line
+[43741] ServerClientHelper_6: Done helping with method, Responding to Client
+[43741] ServerClientHelper_6: Getting method to run
+[43954] ServerClientHelper_27: Client has requested to run method 1
+[43954] ServerClientHelper_27: KioskHelper_2 ready to help voter at kiosk
+[43954] ServerClientHelper_27: Done helping with method, Responding to Client
+[43954] ServerClientHelper_27: Getting method to run
+[44931] ServerClientHelper_0: Client has requested to run method 1
+[44931] ServerClientHelper_0: KioskHelper_0 ready to help voter at kiosk
+[44931] ServerClientHelper_0: Done helping with method, Responding to Client
+[44931] ServerClientHelper_0: Getting method to run
+[45005] ServerClientHelper_7: Client has requested to run method 1
+[45005] ServerClientHelper_7: ScanHelper_1 ready to help voters at scanner
+[45167] ServerClientHelper_26: Client has requested to run method 1
+[45167] ServerClientHelper_26: KioskHelper_1 ready to help voter at kiosk
+[45167] ServerClientHelper_26: Done helping with method, Responding to Client
+[45167] ServerClientHelper_26: Getting method to run
+[45243] ServerClientHelper_27: Client has requested to run method DONE
+[45243] ServerClientHelper_27: Client has signaled they are done, exiting
+[45261] ServerClientHelper_25: Client has requested to run method 6
+[45261] ServerClientHelper_25: Voter_11 is entering the scan machine line
+[45261] ServerClientHelper_7: Done helping with method, Responding to Client
+[45261] ServerClientHelper_7: Getting method to run
+[45275] ServerClientHelper_6: Client has requested to run method 1
+[45275] ServerClientHelper_6: ScanHelper_0 ready to help voters at scanner
+[46165] ServerClientHelper_20: Client has requested to run method 6
+[46165] ServerClientHelper_20: Voter_5 is entering the scan machine line
+[46165] ServerClientHelper_6: Done helping with method, Responding to Client
+[46165] ServerClientHelper_6: Getting method to run
+[46417] ServerClientHelper_7: Client has requested to run method 1
+[46417] ServerClientHelper_7: ScanHelper_1 ready to help voters at scanner
+[46642] ServerClientHelper_19: Client has requested to run method 6
+[46642] ServerClientHelper_19: Voter_6 is entering the scan machine line
+[46642] ServerClientHelper_7: Done helping with method, Responding to Client
+[46642] ServerClientHelper_7: Getting method to run
+[46648] ServerClientHelper_14: Client has requested to run method 8
+[46648] ServerClientHelper_14: Voter_18 Leaving scanning group
+[46648] ServerClientHelper_14: Voter_18 left scanning group
+[46648] ServerClientHelper_14: Done helping with method, Responding to Client
+[46648] ServerClientHelper_9: Client has requested to run method 8
+[46648] ServerClientHelper_12: Client has requested to run method 8
+[46648] ServerClientHelper_12: Voter_17 Leaving scanning group
+[46648] ServerClientHelper_14: Getting method to run
+[46648] ServerClientHelper_12: Voter_17 left scanning group
+[46648] ServerClientHelper_12: Done helping with method, Responding to Client
+[46648] ServerClientHelper_9: Voter_12 Leaving scanning group
+[46648] ServerClientHelper_9: Voter_12 left scanning group
+[46648] ServerClientHelper_9: Done helping with method, Responding to Client
+[46648] ServerClientHelper_12: Getting method to run
+[46648] ServerClientHelper_9: Getting method to run
+[46650] ServerClientHelper_11: Client has requested to run method 8
+[46650] ServerClientHelper_11: Voter_14 Leaving scanning group
+[46650] ServerClientHelper_11: Voter_14 left scanning group
+[46650] ServerClientHelper_11: Done helping with method, Responding to Client
+[46650] ServerClientHelper_11: Getting method to run
+[46696] ServerClientHelper_26: Client has requested to run method DONE
+[46696] ServerClientHelper_26: Client has signaled they are done, exiting
+[46731] ServerClientHelper_0: Client has requested to run method DONE
+[46731] ServerClientHelper_0: Client has signaled they are done, exiting
+[47879] ServerClientHelper_7: Client has requested to run method 1
+[47879] ServerClientHelper_7: ScanHelper_1 ready to help voters at scanner
+[47879] ServerClientHelper_7: Done helping with method, Responding to Client
+[47879] ServerClientHelper_13: Voter_16 is scanning their ballot
+[47879] ServerClientHelper_13: Done helping with method, Responding to Client
+[47879] ServerClientHelper_18: Voter_2 is scanning their ballot
+[47879] ServerClientHelper_13: Getting method to run
+[47879] ServerClientHelper_17: Voter_3 is scanning their ballot
+[47879] ServerClientHelper_17: Done helping with method, Responding to Client
+[47879] ServerClientHelper_18: Done helping with method, Responding to Client
+[47879] ServerClientHelper_7: Getting method to run
+[47879] ServerClientHelper_15: Voter_19 is scanning their ballot
+[47879] ServerClientHelper_17: Getting method to run
+[47879] ServerClientHelper_15: Done helping with method, Responding to Client
+[47879] ServerClientHelper_18: Getting method to run
+[47879] ServerClientHelper_15: Getting method to run
+[48026] ServerClientHelper_6: Client has requested to run method 1
+[48026] ServerClientHelper_6: ScanHelper_0 ready to help voters at scanner
+[48679] ServerClientHelper_9: Client has requested to run method DONE
+[48679] ServerClientHelper_9: Client has signaled they are done, exiting
+[48679] ServerClientHelper_12: Client has requested to run method DONE
+[48679] ServerClientHelper_12: Client has signaled they are done, exiting
+[48679] ServerClientHelper_14: Client has requested to run method DONE
+[48679] ServerClientHelper_14: Client has signaled they are done, exiting
+[48682] ServerClientHelper_11: Client has requested to run method DONE
+[48682] ServerClientHelper_11: Client has signaled they are done, exiting
+[49697] ServerClientHelper_7: Client has requested to run method 1
+[49697] ServerClientHelper_7: ScanHelper_1 ready to help voters at scanner
+[50986] ServerClientHelper_15: Client has requested to run method 7
+[50986] ServerClientHelper_13: Client has requested to run method 7
+[50986] ServerClientHelper_15: Voter_19 seeing if they need help
+[50986] ServerClientHelper_13: Voter_16 seeing if they need help
+[50986] ServerClientHelper_15: Voter_19 didn't need help
+[50986] ServerClientHelper_15: Done helping with method, Responding to Client
+[50986] ServerClientHelper_13: Voter_16 didn't need help
+[50986] ServerClientHelper_13: Done helping with method, Responding to Client
+[50986] ServerClientHelper_13: Getting method to run
+[50986] ServerClientHelper_15: Getting method to run
+[51043] ServerClientHelper_18: Client has requested to run method 7
+[51043] ServerClientHelper_17: Client has requested to run method 7
+[51043] ServerClientHelper_18: Voter_2 seeing if they need help
+[51043] ServerClientHelper_18: Voter_2 Needs help scanning, getting a helper
+[51043] ServerClientHelper_17: Voter_3 seeing if they need help
+[51043] ServerClientHelper_6: Done helping with method, Responding to Client
+[51043] ServerClientHelper_17: Voter_3 Needs help scanning, getting a helper
+[51043] ServerClientHelper_7: Done helping with method, Responding to Client
+[51043] ServerClientHelper_6: Getting method to run
+[51043] ServerClientHelper_7: Getting method to run
+[52185] ServerClientHelper_7: Client has requested to run method 1
+[52185] ServerClientHelper_7: ScanHelper_1 ready to help voters at scanner
+[52185] ServerClientHelper_18: Voter_2 Being helped
+[52785] ServerClientHelper_6: Client has requested to run method 1
+[52785] ServerClientHelper_6: ScanHelper_0 ready to help voters at scanner
+[52785] ServerClientHelper_17: Voter_3 Being helped
+[55054] ServerClientHelper_15: Client has requested to run method 8
+[55054] ServerClientHelper_13: Client has requested to run method 8
+[55054] ServerClientHelper_15: Voter_19 Leaving scanning group
+[55054] ServerClientHelper_13: Voter_16 Leaving scanning group
+[55054] ServerClientHelper_15: Voter_19 left scanning group
+[55054] ServerClientHelper_15: Done helping with method, Responding to Client
+[55054] ServerClientHelper_13: Voter_16 left scanning group
+[55054] ServerClientHelper_13: Done helping with method, Responding to Client
+[55054] ServerClientHelper_13: Getting method to run
+[55054] ServerClientHelper_15: Getting method to run
+[56374] ServerClientHelper_18: Voter_2 done being helped
+[56374] ServerClientHelper_18: Done helping with method, Responding to Client
+[56374] ServerClientHelper_7: Done helping with method, Responding to Client
+[56374] ServerClientHelper_7: Getting method to run
+[56374] ServerClientHelper_18: Getting method to run
+[56974] ServerClientHelper_17: Voter_3 done being helped
+[56974] ServerClientHelper_17: Done helping with method, Responding to Client
+[56974] ServerClientHelper_6: Done helping with method, Responding to Client
+[56974] ServerClientHelper_6: Getting method to run
+[56974] ServerClientHelper_17: Getting method to run
+[57092] ServerClientHelper_13: Client has requested to run method DONE
+[57092] ServerClientHelper_13: Client has signaled they are done, exiting
+[57092] ServerClientHelper_15: Client has requested to run method DONE
+[57092] ServerClientHelper_15: Client has signaled they are done, exiting
+[57561] ServerClientHelper_7: Client has requested to run method 1
+[57561] ServerClientHelper_7: ScanHelper_1 ready to help voters at scanner
+[58131] ServerClientHelper_6: Client has requested to run method 1
+[58131] ServerClientHelper_6: ScanHelper_0 ready to help voters at scanner
+[60243] ServerClientHelper_18: Client has requested to run method 8
+[60243] ServerClientHelper_18: Voter_2 Leaving scanning group
+[60243] ServerClientHelper_18: Voter_2 left scanning group
+[60243] ServerClientHelper_18: Done helping with method, Responding to Client
+[60243] ServerClientHelper_18: Getting method to run
+[60844] ServerClientHelper_17: Client has requested to run method 8
+[60844] ServerClientHelper_17: Voter_3 Leaving scanning group
+[60844] ServerClientHelper_17: Voter_3 left scanning group
+[60844] ServerClientHelper_17: Done helping with method, Responding to Client
+[60844] ServerClientHelper_7: Done helping with method, Responding to Client
+[60844] ServerClientHelper_17: Getting method to run
+[60844] ServerClientHelper_7: Getting method to run
+[61996] ServerClientHelper_7: Client has requested to run method 1
+[61996] ServerClientHelper_7: ScanHelper_1 ready to help voters at scanner
+[61996] ServerClientHelper_7: Done helping with method, Responding to Client
+[61996] ServerClientHelper_16: Voter_4 is scanning their ballot
+[61996] ServerClientHelper_16: Done helping with method, Responding to Client
+[61996] ServerClientHelper_7: Getting method to run
+[61996] ServerClientHelper_24: Voter_10 is scanning their ballot
+[61996] ServerClientHelper_24: Done helping with method, Responding to Client
+[61996] ServerClientHelper_16: Getting method to run
+[61996] ServerClientHelper_24: Getting method to run
+[61996] ServerClientHelper_21: Voter_7 is scanning their ballot
+[61996] ServerClientHelper_23: Voter_9 is scanning their ballot
+[61996] ServerClientHelper_23: Done helping with method, Responding to Client
+[61996] ServerClientHelper_21: Done helping with method, Responding to Client
+[61996] ServerClientHelper_21: Getting method to run
+[61996] ServerClientHelper_23: Getting method to run
+[63095] ServerClientHelper_7: Client has requested to run method 1
+[63095] ServerClientHelper_7: ScanHelper_1 ready to help voters at scanner
+[64663] ServerClientHelper_18: Client has requested to run method DONE
+[64663] ServerClientHelper_18: Client has signaled they are done, exiting
+[65160] ServerClientHelper_23: Client has requested to run method 7
+[65160] ServerClientHelper_24: Client has requested to run method 7
+[65160] ServerClientHelper_23: Voter_9 seeing if they need help
+[65160] ServerClientHelper_24: Voter_10 seeing if they need help
+[65160] ServerClientHelper_23: Voter_9 Needs help scanning, getting a helper
+[65160] ServerClientHelper_24: Voter_10 Needs help scanning, getting a helper
+[65160] ServerClientHelper_21: Client has requested to run method 7
+[65160] ServerClientHelper_21: Voter_7 seeing if they need help
+[65160] ServerClientHelper_21: Voter_7 Needs help scanning, getting a helper
+[65160] ServerClientHelper_6: Done helping with method, Responding to Client
+[65160] ServerClientHelper_16: Client has requested to run method 7
+[65160] ServerClientHelper_16: Voter_4 seeing if they need help
+[65160] ServerClientHelper_7: Done helping with method, Responding to Client
+[65160] ServerClientHelper_16: Voter_4 Needs help scanning, getting a helper
+[65160] ServerClientHelper_6: Getting method to run
+[65160] ServerClientHelper_7: Getting method to run
+[65265] ServerClientHelper_17: Client has requested to run method DONE
+[65265] ServerClientHelper_17: Client has signaled they are done, exiting
+[66395] ServerClientHelper_6: Client has requested to run method 1
+[66395] ServerClientHelper_6: ScanHelper_0 ready to help voters at scanner
+[66395] ServerClientHelper_23: Voter_9 Being helped
+[66995] ServerClientHelper_7: Client has requested to run method 1
+[66995] ServerClientHelper_7: ScanHelper_1 ready to help voters at scanner
+[66995] ServerClientHelper_24: Voter_10 Being helped
+[71222] ServerClientHelper_23: Voter_9 done being helped
+[71222] ServerClientHelper_23: Done helping with method, Responding to Client
+[71222] ServerClientHelper_6: Done helping with method, Responding to Client
+[71222] ServerClientHelper_6: Getting method to run
+[71222] ServerClientHelper_23: Getting method to run
+[71614] ServerClientHelper_24: Voter_10 done being helped
+[71614] ServerClientHelper_7: Done helping with method, Responding to Client
+[71614] ServerClientHelper_24: Done helping with method, Responding to Client
+[71614] ServerClientHelper_7: Getting method to run
+[71614] ServerClientHelper_24: Getting method to run
+[73040] ServerClientHelper_7: Client has requested to run method 1
+[73040] ServerClientHelper_6: Client has requested to run method 1
+[73040] ServerClientHelper_7: ScanHelper_1 ready to help voters at scanner
+[73040] ServerClientHelper_6: ScanHelper_0 ready to help voters at scanner
+[73040] ServerClientHelper_21: Voter_7 Being helped
+[73040] ServerClientHelper_16: Voter_4 Being helped
+[75092] ServerClientHelper_23: Client has requested to run method 8
+[75092] ServerClientHelper_23: Voter_9 Leaving scanning group
+[75092] ServerClientHelper_23: Voter_9 left scanning group
+[75092] ServerClientHelper_23: Done helping with method, Responding to Client
+[75092] ServerClientHelper_23: Getting method to run
+[75483] ServerClientHelper_24: Client has requested to run method 8
+[75483] ServerClientHelper_24: Voter_10 Leaving scanning group
+[75483] ServerClientHelper_24: Voter_10 left scanning group
+[75483] ServerClientHelper_24: Done helping with method, Responding to Client
+[75483] ServerClientHelper_24: Getting method to run
+[76445] ServerClientHelper_16: Voter_4 done being helped
+[76445] ServerClientHelper_16: Done helping with method, Responding to Client
+[76445] ServerClientHelper_7: Done helping with method, Responding to Client
+[76445] ServerClientHelper_7: Getting method to run
+[76445] ServerClientHelper_16: Getting method to run
+[77867] ServerClientHelper_21: Voter_7 done being helped
+[77867] ServerClientHelper_21: Done helping with method, Responding to Client
+[77867] ServerClientHelper_6: Done helping with method, Responding to Client
+[77867] ServerClientHelper_6: Getting method to run
+[77867] ServerClientHelper_21: Getting method to run
+[78054] ServerClientHelper_7: Client has requested to run method 1
+[78054] ServerClientHelper_7: ScanHelper_1 ready to help voters at scanner
+[79009] ServerClientHelper_6: Client has requested to run method 1
+[79009] ServerClientHelper_6: ScanHelper_0 ready to help voters at scanner
+[79511] ServerClientHelper_23: Client has requested to run method DONE
+[79511] ServerClientHelper_23: Client has signaled they are done, exiting
+[79905] ServerClientHelper_24: Client has requested to run method DONE
+[79905] ServerClientHelper_24: Client has signaled they are done, exiting
+[80314] ServerClientHelper_16: Client has requested to run method 8
+[80314] ServerClientHelper_16: Voter_4 Leaving scanning group
+[80314] ServerClientHelper_16: Voter_4 left scanning group
+[80314] ServerClientHelper_16: Done helping with method, Responding to Client
+[80314] ServerClientHelper_16: Getting method to run
+[81736] ServerClientHelper_21: Client has requested to run method 8
+[81736] ServerClientHelper_21: Voter_7 Leaving scanning group
+[81736] ServerClientHelper_21: Voter_7 left scanning group
+[81736] ServerClientHelper_21: Done helping with method, Responding to Client
+[81736] ServerClientHelper_7: Done helping with method, Responding to Client
+[81736] ServerClientHelper_21: Getting method to run
+[81736] ServerClientHelper_7: Getting method to run
+[82800] ServerClientHelper_7: Client has requested to run method 1
+[82800] ServerClientHelper_7: ScanHelper_1 ready to help voters at scanner
+[82800] ServerClientHelper_7: Done helping with method, Responding to Client
+[82800] ServerClientHelper_7: Getting method to run
+[82800] ServerClientHelper_22: Voter_8 is scanning their ballot
+[82800] ServerClientHelper_25: Voter_11 is scanning their ballot
+[82800] ServerClientHelper_25: Done helping with method, Responding to Client
+[82800] ServerClientHelper_19: Voter_6 is scanning their ballot
+[82800] ServerClientHelper_19: Done helping with method, Responding to Client
+[82800] ServerClientHelper_25: Getting method to run
+[82800] ServerClientHelper_22: Done helping with method, Responding to Client
+[82800] ServerClientHelper_20: Voter_5 is scanning their ballot
+[82800] ServerClientHelper_20: Done helping with method, Responding to Client
+[82800] ServerClientHelper_19: Getting method to run
+[82800] ServerClientHelper_20: Getting method to run
+[82800] ServerClientHelper_22: Getting method to run
+[84600] ServerClientHelper_7: Client has requested to run method 1
+[84600] ServerClientHelper_7: ScanHelper_1 ready to help voters at scanner
+[84735] ServerClientHelper_16: Client has requested to run method DONE
+[84735] ServerClientHelper_16: Client has signaled they are done, exiting
+[85964] ServerClientHelper_19: Client has requested to run method 7
+[85964] ServerClientHelper_20: Client has requested to run method 7
+[85964] ServerClientHelper_19: Voter_6 seeing if they need help
+[85964] ServerClientHelper_20: Voter_5 seeing if they need help
+[85964] ServerClientHelper_19: Voter_6 Needs help scanning, getting a helper
+[85964] ServerClientHelper_20: Voter_5 Needs help scanning, getting a helper
+[85964] ServerClientHelper_6: Done helping with method, Responding to Client
+[85964] ServerClientHelper_7: Done helping with method, Responding to Client
+[85964] ServerClientHelper_7: Getting method to run
+[85964] ServerClientHelper_6: Getting method to run
+[85966] ServerClientHelper_22: Client has requested to run method 7
+[85966] ServerClientHelper_25: Client has requested to run method 7
+[85966] ServerClientHelper_25: Voter_11 seeing if they need help
+[85966] ServerClientHelper_25: Voter_11 Needs help scanning, getting a helper
+[85966] ServerClientHelper_22: Voter_8 seeing if they need help
+[85966] ServerClientHelper_22: Voter_8 Needs help scanning, getting a helper
+[86155] ServerClientHelper_21: Client has requested to run method DONE
+[86155] ServerClientHelper_21: Client has signaled they are done, exiting
+[87151] ServerClientHelper_6: Client has requested to run method 1
+[87151] ServerClientHelper_6: ScanHelper_0 ready to help voters at scanner
+[87151] ServerClientHelper_19: Voter_6 Being helped
+[87425] ServerClientHelper_7: Client has requested to run method 1
+[87425] ServerClientHelper_7: ScanHelper_1 ready to help voters at scanner
+[87425] ServerClientHelper_20: Voter_5 Being helped
+[91339] ServerClientHelper_19: Voter_6 done being helped
+[91339] ServerClientHelper_19: Done helping with method, Responding to Client
+[91339] ServerClientHelper_6: Done helping with method, Responding to Client
+[91339] ServerClientHelper_6: Getting method to run
+[91339] ServerClientHelper_19: Getting method to run
+[91612] ServerClientHelper_20: Voter_5 done being helped
+[91612] ServerClientHelper_20: Done helping with method, Responding to Client
+[91612] ServerClientHelper_7: Done helping with method, Responding to Client
+[91612] ServerClientHelper_7: Getting method to run
+[91612] ServerClientHelper_20: Getting method to run
+[92491] ServerClientHelper_6: Client has requested to run method 1
+[92491] ServerClientHelper_6: ScanHelper_0 ready to help voters at scanner
+[92491] ServerClientHelper_25: Voter_11 Being helped
+[92727] ServerClientHelper_7: Client has requested to run method 1
+[92727] ServerClientHelper_7: ScanHelper_1 ready to help voters at scanner
+[92727] ServerClientHelper_22: Voter_8 Being helped
+[95208] ServerClientHelper_19: Client has requested to run method 8
+[95208] ServerClientHelper_19: Voter_6 Leaving scanning group
+[95208] ServerClientHelper_19: Voter_6 left scanning group
+[95208] ServerClientHelper_19: Done helping with method, Responding to Client
+[95208] ServerClientHelper_19: Getting method to run
+[95483] ServerClientHelper_20: Client has requested to run method 8
+[95483] ServerClientHelper_20: Voter_5 Leaving scanning group
+[95483] ServerClientHelper_20: Voter_5 left scanning group
+[95483] ServerClientHelper_20: Done helping with method, Responding to Client
+[95483] ServerClientHelper_20: Getting method to run
+[97112] ServerClientHelper_25: Voter_11 done being helped
+[97112] ServerClientHelper_25: Done helping with method, Responding to Client
+[97112] ServerClientHelper_6: Done helping with method, Responding to Client
+[97112] ServerClientHelper_25: Getting method to run
+[97112] ServerClientHelper_6: Getting method to run
+[97555] ServerClientHelper_22: Voter_8 done being helped
+[97555] ServerClientHelper_22: Done helping with method, Responding to Client
+[97555] ServerClientHelper_7: Done helping with method, Responding to Client
+[97555] ServerClientHelper_7: Getting method to run
+[97555] ServerClientHelper_22: Getting method to run
+[98211] ServerClientHelper_6: Client has requested to run method 1
+[98211] ServerClientHelper_6: ScanHelper_0 ready to help voters at scanner
+[98211] ServerClientHelper_6: Done helping with method, Responding to Client
+[98211] ServerClientHelper_6: Getting method to run
+[99152] ServerClientHelper_7: Client has requested to run method 1
+[99152] ServerClientHelper_7: ScanHelper_1 ready to help voters at scanner
+[99152] ServerClientHelper_7: Done helping with method, Responding to Client
+[99152] ServerClientHelper_7: Getting method to run
+[99627] ServerClientHelper_19: Client has requested to run method DONE
+[99627] ServerClientHelper_19: Client has signaled they are done, exiting
+[99902] ServerClientHelper_20: Client has requested to run method DONE
+[99902] ServerClientHelper_20: Client has signaled they are done, exiting
+[100046] ServerClientHelper_6: Client has requested to run method 1
+[100046] ServerClientHelper_6: ScanHelper_0 ready to help voters at scanner
+[100046] ServerClientHelper_6: Done helping with method, Responding to Client
+[100046] ServerClientHelper_6: Getting method to run
+[100981] ServerClientHelper_25: Client has requested to run method 8
+[100981] ServerClientHelper_25: Voter_11 Leaving scanning group
+[100981] ServerClientHelper_25: Voter_11 left scanning group
+[100981] ServerClientHelper_25: Done helping with method, Responding to Client
+[100981] ServerClientHelper_25: Getting method to run
+[101141] ServerClientHelper_7: Client has requested to run method 1
+[101141] ServerClientHelper_7: ScanHelper_1 ready to help voters at scanner
+[101141] ServerClientHelper_7: Done helping with method, Responding to Client
+[101141] ServerClientHelper_7: Getting method to run
+[101424] ServerClientHelper_22: Client has requested to run method 8
+[101424] ServerClientHelper_22: Voter_8 Leaving scanning group
+[101424] ServerClientHelper_22: Voter_8 left scanning group
+[101424] ServerClientHelper_22: Done helping with method, Responding to Client
+[101424] ServerClientHelper_22: Getting method to run
+[101472] ServerClientHelper_6: Client has requested to run method 1
+[101472] ServerClientHelper_6: ScanHelper_0 ready to help voters at scanner
+[101472] ServerClientHelper_6: Done helping with method, Responding to Client
+[101472] ServerClientHelper_6: Getting method to run
+[102633] ServerClientHelper_7: Client has requested to run method 1
+[102633] ServerClientHelper_7: ScanHelper_1 ready to help voters at scanner
+[102633] ServerClientHelper_7: Done helping with method, Responding to Client
+[102633] ServerClientHelper_7: Getting method to run
+[103078] ServerClientHelper_6: Client has requested to run method DONE
+[103078] ServerClientHelper_6: Client has signaled they are done, exiting
+[103677] ServerClientHelper_7: Client has requested to run method DONE
+[103677] ServerClientHelper_7: Client has signaled they are done, exiting
+[105401] ServerClientHelper_25: Client has requested to run method DONE
+[105401] ServerClientHelper_25: Client has signaled they are done, exiting
+[105843] ServerClientHelper_22: Client has requested to run method DONE
+[105843] ServerClientHelper_22: Client has signaled they are done, exiting

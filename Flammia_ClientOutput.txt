@@ -1,0 +1,1035 @@
+[2030] KioskHelper_0: Connection Established
+[2044] KioskHelper_0: Data Input/Output Streams Established.
+[2044] KioskHelper_0: Sending Thread type to Server
+[2044] KioskHelper_0: Type sent. Awaiting confirmation.
+[2050] KioskHelper_0: Recieved: OK
+[2050] KioskHelper_0: Sending Associated Kiosk Number
+[2050] KioskHelper_0: Sending Name.
+[2050] KioskHelper_0: Name sent. Awaiting confirmation.
+[2051] KioskHelper_0: Recieved: OK
+[2051] KioskHelper_0: Sending method 1 to server
+[2051] KioskHelper_0: Method number sent. Awaiting server to respond
+[2053] KioskHelper_0: Recieved: OK
+[2372] IDChecker_2: Connection Established
+[2373] IDChecker_2: Data Input/Output Streams Established.
+[2373] IDChecker_2: Sending Thread type to Server
+[2373] IDChecker_2: Type sent. Awaiting confirmation.
+[2372] IDChecker_0: Connection Established
+[2373] IDChecker_0: Data Input/Output Streams Established.
+[2373] IDChecker_0: Sending Thread type to Server
+[2373] IDChecker_0: Type sent. Awaiting confirmation.
+[2373] IDChecker_1: Connection Established
+[2373] IDChecker_1: Data Input/Output Streams Established.
+[2373] IDChecker_1: Sending Thread type to Server
+[2373] IDChecker_1: Type sent. Awaiting confirmation.
+[2374] IDChecker_2: Recieved: OK
+[2374] IDChecker_2: Sending Name.
+[2374] IDChecker_1: Recieved: OK
+[2374] IDChecker_1: Sending Name.
+[2375] IDChecker_2: Name sent. Awaiting confirmation.
+[2375] IDChecker_1: Name sent. Awaiting confirmation.
+[2375] IDChecker_0: Recieved: OK
+[2375] IDChecker_0: Sending Name.
+[2375] IDChecker_0: Name sent. Awaiting confirmation.
+[2375] IDChecker_2: Recieved: OK
+[2375] IDChecker_2: Sending method 1 to Server
+[2375] IDChecker_1: Recieved: OK
+[2375] IDChecker_1: Sending method 1 to Server
+[2375] IDChecker_2: Method number sent. Awaiting server to respond
+[2375] IDChecker_1: Method number sent. Awaiting server to respond
+[2375] IDChecker_0: Recieved: OK
+[2375] IDChecker_0: Sending method 1 to Server
+[2375] IDChecker_0: Method number sent. Awaiting server to respond
+[2386] Voter_0: Connection Established
+[2386] Voter_0: Data Input/Output Streams Established.
+[2387] Voter_0: Sending Thread type to Server
+[2387] Voter_0: Type sent. Awaiting confirmation.
+[2386] Voter_1: Connection Established
+[2387] Voter_1: Data Input/Output Streams Established.
+[2387] Voter_1: Sending Thread type to Server
+[2387] Voter_1: Type sent. Awaiting confirmation.
+[2387] Voter_0: Recieved: OK
+[2387] Voter_0: Sending Name.
+[2387] Voter_0: Name sent. Awaiting confirmation.
+[2387] Voter_1: Recieved: OK
+[2388] Voter_1: Sending Name.
+[2388] Voter_1: Name sent. Awaiting confirmation.
+[2388] Voter_0: Recieved: OK
+[2388] Voter_1: Recieved: OK
+[2388] Voter_0: Sending method 1 to Server
+[2388] Voter_1: Sending method 1 to Server
+[2388] Voter_1: Method number sent. Awaiting server to respond
+[2388] Voter_0: Method number sent. Awaiting server to respond
+[2405] IDChecker_2: Recieved: OK
+[2405] IDChecker_0: Recieved: OK
+[2760] ScanHelper_1: Connection Established
+[2761] ScanHelper_1: Data Input/Output Streams Established.
+[2761] ScanHelper_1: Sending Thread type to Server
+[2761] ScanHelper_1: Type sent. Awaiting confirmation.
+[2760] ScanHelper_0: Connection Established
+[2761] ScanHelper_0: Data Input/Output Streams Established.
+[2761] ScanHelper_0: Sending Thread type to Server
+[2761] ScanHelper_0: Type sent. Awaiting confirmation.
+[2762] ScanHelper_0: Recieved: OK
+[2762] ScanHelper_1: Recieved: OK
+[2762] ScanHelper_0: Sending Name.
+[2762] ScanHelper_1: Sending Name.
+[2762] ScanHelper_0: Name sent. Awaiting confirmation.
+[2762] ScanHelper_1: Name sent. Awaiting confirmation.
+[2762] ScanHelper_1: Recieved: OK
+[2762] ScanHelper_1: Sending method 1 to Server
+[2762] ScanHelper_1: Method number sent. Awaiting server to respond
+[2762] ScanHelper_0: Recieved: OK
+[2762] ScanHelper_0: Sending method 1 to Server
+[2763] ScanHelper_0: Method number sent. Awaiting server to respond
+[3140] Voter_13: Connection Established
+[3140] Voter_12: Connection Established
+[3140] Voter_12: Data Input/Output Streams Established.
+[3140] Voter_12: Sending Thread type to Server
+[3140] Voter_12: Type sent. Awaiting confirmation.
+[3141] Voter_13: Data Input/Output Streams Established.
+[3141] Voter_13: Sending Thread type to Server
+[3141] Voter_13: Type sent. Awaiting confirmation.
+[3141] Voter_15: Connection Established
+[3141] Voter_14: Connection Established
+[3141] Voter_14: Data Input/Output Streams Established.
+[3141] Voter_14: Sending Thread type to Server
+[3141] Voter_14: Type sent. Awaiting confirmation.
+[3141] Voter_15: Data Input/Output Streams Established.
+[3141] Voter_15: Sending Thread type to Server
+[3142] Voter_15: Type sent. Awaiting confirmation.
+[3142] Voter_17: Connection Established
+[3142] Voter_17: Data Input/Output Streams Established.
+[3142] Voter_17: Sending Thread type to Server
+[3142] Voter_17: Type sent. Awaiting confirmation.
+[3142] Voter_16: Connection Established
+[3142] Voter_18: Connection Established
+[3142] Voter_16: Data Input/Output Streams Established.
+[3142] Voter_18: Data Input/Output Streams Established.
+[3142] Voter_16: Sending Thread type to Server
+[3142] Voter_18: Sending Thread type to Server
+[3142] Voter_16: Type sent. Awaiting confirmation.
+[3142] Voter_18: Type sent. Awaiting confirmation.
+[3143] Voter_19: Connection Established
+[3143] Voter_19: Data Input/Output Streams Established.
+[3143] Voter_19: Sending Thread type to Server
+[3143] Voter_19: Type sent. Awaiting confirmation.
+[3144] Voter_13: Recieved: OK
+[3144] Voter_13: Sending Name.
+[3144] Voter_13: Name sent. Awaiting confirmation.
+[3144] Voter_13: Recieved: OK
+[3144] Voter_13: Sending method 1 to Server
+[3144] Voter_13: Method number sent. Awaiting server to respond
+[3144] Voter_12: Recieved: OK
+[3144] Voter_12: Sending Name.
+[3144] Voter_12: Name sent. Awaiting confirmation.
+[3145] Voter_12: Recieved: OK
+[3145] Voter_12: Sending method 1 to Server
+[3145] Voter_12: Method number sent. Awaiting server to respond
+[3161] IDChecker_1: Recieved: OK
+[3146] Voter_15: Recieved: OK
+[3146] Voter_15: Sending Name.
+[3146] Voter_15: Name sent. Awaiting confirmation.
+[3146] Voter_15: Recieved: OK
+[3146] Voter_15: Sending method 1 to Server
+[3146] Voter_15: Method number sent. Awaiting server to respond
+[3146] Voter_14: Recieved: OK
+[3146] Voter_14: Sending Name.
+[3146] Voter_14: Name sent. Awaiting confirmation.
+[3147] Voter_14: Recieved: OK
+[3147] Voter_14: Sending method 1 to Server
+[3147] Voter_14: Method number sent. Awaiting server to respond
+[3147] Voter_16: Recieved: OK
+[3147] Voter_16: Sending Name.
+[3147] Voter_17: Recieved: OK
+[3147] Voter_16: Name sent. Awaiting confirmation.
+[3147] Voter_17: Sending Name.
+[3147] Voter_16: Recieved: OK
+[3147] Voter_17: Name sent. Awaiting confirmation.
+[3147] Voter_16: Sending method 1 to Server
+[3147] Voter_16: Method number sent. Awaiting server to respond
+[3147] Voter_17: Recieved: OK
+[3147] Voter_17: Sending method 1 to Server
+[3147] Voter_17: Method number sent. Awaiting server to respond
+[3148] Voter_18: Recieved: OK
+[3148] Voter_18: Sending Name.
+[3148] Voter_18: Name sent. Awaiting confirmation.
+[3148] Voter_18: Recieved: OK
+[3148] Voter_18: Sending method 1 to Server
+[3148] Voter_18: Method number sent. Awaiting server to respond
+[3149] Voter_19: Recieved: OK
+[3149] Voter_19: Sending Name.
+[3149] Voter_19: Name sent. Awaiting confirmation.
+[3149] Voter_19: Recieved: OK
+[3149] Voter_19: Sending method 1 to Server
+[3149] Voter_19: Method number sent. Awaiting server to respond
+[3514] Voter_2: Connection Established
+[3514] Voter_3: Connection Established
+[3514] Voter_2: Data Input/Output Streams Established.
+[3514] Voter_3: Data Input/Output Streams Established.
+[3514] Voter_3: Sending Thread type to Server
+[3514] Voter_2: Sending Thread type to Server
+[3514] Voter_3: Type sent. Awaiting confirmation.
+[3514] Voter_2: Type sent. Awaiting confirmation.
+[3515] Voter_6: Connection Established
+[3515] Voter_5: Connection Established
+[3515] Voter_5: Data Input/Output Streams Established.
+[3515] Voter_5: Sending Thread type to Server
+[3515] Voter_5: Type sent. Awaiting confirmation.
+[3515] Voter_6: Data Input/Output Streams Established.
+[3515] Voter_6: Sending Thread type to Server
+[3515] Voter_6: Type sent. Awaiting confirmation.
+[3515] Voter_4: Connection Established
+[3515] Voter_4: Data Input/Output Streams Established.
+[3515] Voter_4: Sending Thread type to Server
+[3515] Voter_7: Connection Established
+[3515] Voter_7: Data Input/Output Streams Established.
+[3515] Voter_7: Sending Thread type to Server
+[3516] Voter_7: Type sent. Awaiting confirmation.
+[3516] Voter_4: Type sent. Awaiting confirmation.
+[3516] Voter_8: Connection Established
+[3516] Voter_8: Data Input/Output Streams Established.
+[3516] Voter_8: Sending Thread type to Server
+[3516] Voter_8: Type sent. Awaiting confirmation.
+[3516] Voter_9: Connection Established
+[3517] Voter_9: Data Input/Output Streams Established.
+[3517] Voter_9: Sending Thread type to Server
+[3517] Voter_10: Connection Established
+[3517] Voter_10: Data Input/Output Streams Established.
+[3517] Voter_10: Sending Thread type to Server
+[3517] Voter_10: Type sent. Awaiting confirmation.
+[3517] Voter_9: Type sent. Awaiting confirmation.
+[3518] Voter_11: Connection Established
+[3518] Voter_11: Data Input/Output Streams Established.
+[3518] Voter_4: Recieved: OK
+[3518] Voter_11: Sending Thread type to Server
+[3518] Voter_4: Sending Name.
+[3518] Voter_11: Type sent. Awaiting confirmation.
+[3518] Voter_4: Name sent. Awaiting confirmation.
+[3518] Voter_4: Recieved: OK
+[3518] Voter_4: Sending method 1 to Server
+[3518] Voter_4: Method number sent. Awaiting server to respond
+[3518] Voter_3: Recieved: OK
+[3518] Voter_3: Sending Name.
+[3518] Voter_3: Name sent. Awaiting confirmation.
+[3518] Voter_2: Recieved: OK
+[3518] Voter_2: Sending Name.
+[3519] Voter_2: Name sent. Awaiting confirmation.
+[3519] Voter_2: Recieved: OK
+[3519] Voter_2: Sending method 1 to Server
+[3519] Voter_3: Recieved: OK
+[3519] Voter_2: Method number sent. Awaiting server to respond
+[3519] Voter_3: Sending method 1 to Server
+[3519] Voter_3: Method number sent. Awaiting server to respond
+[3520] Voter_7: Recieved: OK
+[3520] Voter_7: Sending Name.
+[3520] Voter_6: Recieved: OK
+[3520] Voter_8: Recieved: OK
+[3520] Voter_8: Sending Name.
+[3520] Voter_8: Name sent. Awaiting confirmation.
+[3520] Voter_7: Name sent. Awaiting confirmation.
+[3520] Voter_6: Sending Name.
+[3520] Voter_7: Recieved: OK
+[3520] Voter_7: Sending method 1 to Server
+[3520] Voter_6: Name sent. Awaiting confirmation.
+[3520] Voter_7: Method number sent. Awaiting server to respond
+[3520] Voter_6: Recieved: OK
+[3520] Voter_6: Sending method 1 to Server
+[3520] Voter_8: Recieved: OK
+[3520] Voter_6: Method number sent. Awaiting server to respond
+[3520] Voter_8: Sending method 1 to Server
+[3520] Voter_8: Method number sent. Awaiting server to respond
+[3520] Voter_5: Recieved: OK
+[3521] Voter_5: Sending Name.
+[3521] Voter_5: Name sent. Awaiting confirmation.
+[3521] Voter_5: Recieved: OK
+[3521] Voter_5: Sending method 1 to Server
+[3521] Voter_5: Method number sent. Awaiting server to respond
+[3521] Voter_9: Recieved: OK
+[3521] Voter_9: Sending Name.
+[3521] Voter_9: Name sent. Awaiting confirmation.
+[3521] Voter_10: Recieved: OK
+[3521] Voter_10: Sending Name.
+[3521] Voter_10: Name sent. Awaiting confirmation.
+[3521] Voter_9: Recieved: OK
+[3521] Voter_9: Sending method 1 to Server
+[3521] Voter_9: Method number sent. Awaiting server to respond
+[3521] Voter_10: Recieved: OK
+[3522] Voter_10: Sending method 1 to Server
+[3522] Voter_10: Method number sent. Awaiting server to respond
+[3522] Voter_11: Recieved: OK
+[3522] Voter_11: Sending Name.
+[3522] Voter_11: Name sent. Awaiting confirmation.
+[3523] Voter_11: Recieved: OK
+[3523] Voter_11: Sending method 1 to Server
+[3523] Voter_11: Method number sent. Awaiting server to respond
+[3578] KioskHelper_0: Sending method 1 to server
+[3578] KioskHelper_0: Method number sent. Awaiting server to respond
+[4242] IDChecker_0: Sending method 1 to Server
+[4242] IDChecker_2: Sending method 1 to Server
+[4242] IDChecker_0: Method number sent. Awaiting server to respond
+[4242] IDChecker_2: Method number sent. Awaiting server to respond
+[4226] Voter_1: Recieved: OK
+[4226] Voter_0: Recieved: OK
+[4637] KioskHelper_1: Connection Established
+[4637] KioskHelper_1: Data Input/Output Streams Established.
+[4637] KioskHelper_1: Sending Thread type to Server
+[4637] KioskHelper_1: Type sent. Awaiting confirmation.
+[4638] KioskHelper_1: Recieved: OK
+[4638] KioskHelper_1: Sending Associated Kiosk Number
+[4638] KioskHelper_1: Sending Name.
+[4638] KioskHelper_1: Name sent. Awaiting confirmation.
+[4638] KioskHelper_2: Connection Established
+[4638] KioskHelper_2: Data Input/Output Streams Established.
+[4638] KioskHelper_2: Sending Thread type to Server
+[4639] KioskHelper_1: Recieved: OK
+[4639] KioskHelper_1: Sending method 1 to server
+[4639] KioskHelper_2: Type sent. Awaiting confirmation.
+[4639] KioskHelper_1: Method number sent. Awaiting server to respond
+[4639] KioskHelper_1: Recieved: OK
+[4640] KioskHelper_2: Recieved: OK
+[4640] KioskHelper_2: Sending Associated Kiosk Number
+[4640] KioskHelper_2: Sending Name.
+[4640] KioskHelper_2: Name sent. Awaiting confirmation.
+[4640] KioskHelper_2: Recieved: OK
+[4640] KioskHelper_2: Sending method 1 to server
+[4640] KioskHelper_2: Method number sent. Awaiting server to respond
+[4640] KioskHelper_2: Recieved: OK
+[4998] IDChecker_1: Sending method 1 to Server
+[4998] IDChecker_1: Method number sent. Awaiting server to respond
+[4982] Voter_12: Recieved: OK
+[6452] KioskHelper_1: Sending method 1 to server
+[6452] KioskHelper_2: Sending method 1 to server
+[6452] KioskHelper_2: Method number sent. Awaiting server to respond
+[6452] KioskHelper_1: Method number sent. Awaiting server to respond
+[7298] Voter_12: Sending method 2 to Server
+[7298] Voter_12: Method number sent. Awaiting server to respond
+[7314] IDChecker_0: Recieved: OK
+[7298] Voter_12: Recieved: OK
+[7465] Voter_1: Sending method 2 to Server
+[7465] Voter_0: Sending method 2 to Server
+[7465] Voter_1: Method number sent. Awaiting server to respond
+[7465] Voter_0: Method number sent. Awaiting server to respond
+[7465] Voter_0: Recieved: OK
+[7481] IDChecker_1: Recieved: OK
+[7481] IDChecker_2: Recieved: OK
+[7465] Voter_1: Recieved: OK
+[8622] IDChecker_0: Sending method 1 to Server
+[8622] IDChecker_0: Method number sent. Awaiting server to respond
+[8606] Voter_13: Recieved: OK
+[8790] IDChecker_2: Sending method 1 to Server
+[8790] IDChecker_1: Sending method 1 to Server
+[8790] IDChecker_2: Method number sent. Awaiting server to respond
+[8774] Voter_15: Recieved: OK
+[8774] Voter_14: Recieved: OK
+[8790] IDChecker_1: Method number sent. Awaiting server to respond
+[9981] Voter_12: Sending method 3 to Server
+[9981] Voter_12: Method number sent. Awaiting server to respond
+[9984] Voter_12: Recieved: OK
+[10883] Voter_1: Sending method 3 to Server
+[10883] Voter_1: Method number sent. Awaiting server to respond
+[10883] Voter_1: Recieved: OK
+[10884] Voter_0: Sending method 3 to Server
+[10884] Voter_0: Method number sent. Awaiting server to respond
+[10884] Voter_0: Recieved: OK
+[10923] Voter_13: Sending method 2 to Server
+[10923] Voter_13: Method number sent. Awaiting server to respond
+[10923] Voter_13: Recieved: OK
+[10939] IDChecker_0: Recieved: OK
+[11090] Voter_14: Sending method 2 to Server
+[11090] Voter_15: Sending method 2 to Server
+[11090] Voter_14: Method number sent. Awaiting server to respond
+[11090] Voter_15: Method number sent. Awaiting server to respond
+[11106] IDChecker_1: Recieved: OK
+[11106] IDChecker_2: Recieved: OK
+[11090] Voter_15: Recieved: OK
+[11090] Voter_14: Recieved: OK
+[12859] IDChecker_0: Sending method 1 to Server
+[12859] IDChecker_0: Method number sent. Awaiting server to respond
+[12843] Voter_16: Recieved: OK
+[13026] IDChecker_2: Sending method 1 to Server
+[13026] IDChecker_1: Sending method 1 to Server
+[13026] IDChecker_2: Method number sent. Awaiting server to respond
+[13026] IDChecker_1: Method number sent. Awaiting server to respond
+[13010] Voter_17: Recieved: OK
+[13010] Voter_18: Recieved: OK
+[13193] Voter_1: Sending method 4 to Server
+[13193] Voter_1: Method number sent. Awaiting server to respond
+[13196] KioskHelper_0: Recieved: OK
+[13194] Voter_0: Sending method 4 to Server
+[13194] Voter_0: Method number sent. Awaiting server to respond
+[13194] Voter_1: Recieved: OK
+[13604] Voter_13: Sending method 3 to Server
+[13604] Voter_13: Method number sent. Awaiting server to respond
+[13604] Voter_13: Recieved: OK
+[13771] Voter_15: Sending method 3 to Server
+[13771] Voter_14: Sending method 3 to Server
+[13771] Voter_15: Method number sent. Awaiting server to respond
+[13771] Voter_14: Method number sent. Awaiting server to respond
+[13771] Voter_15: Recieved: OK
+[13771] Voter_14: Recieved: OK
+[14139] Voter_12: Sending method 4 to Server
+[14139] Voter_12: Method number sent. Awaiting server to respond
+[14787] KioskHelper_0: Sending method 1 to server
+[14787] KioskHelper_0: Method number sent. Awaiting server to respond
+[15159] Voter_16: Sending method 2 to Server
+[15159] Voter_16: Method number sent. Awaiting server to respond
+[15159] Voter_16: Recieved: OK
+[15175] IDChecker_0: Recieved: OK
+[15326] Voter_18: Sending method 2 to Server
+[15326] Voter_18: Method number sent. Awaiting server to respond
+[15326] Voter_18: Recieved: OK
+[15342] IDChecker_2: Recieved: OK
+[15328] Voter_17: Sending method 2 to Server
+[15328] Voter_17: Method number sent. Awaiting server to respond
+[15328] Voter_17: Recieved: OK
+[15344] IDChecker_1: Recieved: OK
+[16999] IDChecker_0: Sending method 1 to Server
+[16999] IDChecker_0: Method number sent. Awaiting server to respond
+[16983] Voter_19: Recieved: OK
+[17164] IDChecker_2: Sending method 1 to Server
+[17164] IDChecker_2: Method number sent. Awaiting server to respond
+[17148] Voter_3: Recieved: OK
+[17166] IDChecker_1: Sending method 1 to Server
+[17166] IDChecker_1: Method number sent. Awaiting server to respond
+[17150] Voter_2: Recieved: OK
+[17758] Voter_13: Sending method 4 to Server
+[17758] Voter_13: Method number sent. Awaiting server to respond
+[17761] KioskHelper_1: Recieved: OK
+[17758] Voter_13: Recieved: OK
+[17842] Voter_16: Sending method 3 to Server
+[17842] Voter_16: Method number sent. Awaiting server to respond
+[17842] Voter_16: Recieved: OK
+[17925] Voter_14: Sending method 4 to Server
+[17925] Voter_15: Sending method 4 to Server
+[17925] Voter_14: Method number sent. Awaiting server to respond
+[17925] Voter_15: Method number sent. Awaiting server to respond
+[18007] Voter_18: Sending method 3 to Server
+[18007] Voter_18: Method number sent. Awaiting server to respond
+[18007] Voter_18: Recieved: OK
+[18012] Voter_17: Sending method 3 to Server
+[18012] Voter_17: Method number sent. Awaiting server to respond
+[18012] Voter_17: Recieved: OK
+[18103] Voter_1: Sending method 5 to Server
+[18103] Voter_1: Method number sent. Awaiting server to respond
+[18103] Voter_1: Recieved: OK
+[18106] KioskHelper_0: Recieved: OK
+[18103] Voter_0: Recieved: OK
+[19168] KioskHelper_1: Sending method 1 to server
+[19168] KioskHelper_1: Method number sent. Awaiting server to respond
+[19283] KioskHelper_0: Sending method 1 to server
+[19283] KioskHelper_0: Method number sent. Awaiting server to respond
+[19299] Voter_19: Sending method 2 to Server
+[19299] Voter_19: Method number sent. Awaiting server to respond
+[19299] Voter_19: Recieved: OK
+[19315] IDChecker_0: Recieved: OK
+[20177] Voter_3: Sending method 2 to Server
+[20177] Voter_3: Method number sent. Awaiting server to respond
+[20177] Voter_3: Recieved: OK
+[20193] IDChecker_2: Recieved: OK
+[20179] Voter_2: Sending method 2 to Server
+[20179] Voter_2: Method number sent. Awaiting server to respond
+[20179] Voter_2: Recieved: OK
+[20195] IDChecker_1: Recieved: OK
+[20397] Voter_13: Sending method 5 to Server
+[20397] Voter_13: Method number sent. Awaiting server to respond
+[20397] Voter_13: Recieved: OK
+[20400] KioskHelper_1: Recieved: OK
+[20397] Voter_15: Recieved: OK
+[20420] IDChecker_0: Sending method 1 to Server
+[20420] IDChecker_0: Method number sent. Awaiting server to respond
+[20404] Voter_4: Recieved: OK
+[20488] Voter_1: Sending method 6 to Server
+[20488] Voter_1: Method number sent. Awaiting server to respond
+[21298] IDChecker_2: Sending method 1 to Server
+[21298] IDChecker_2: Method number sent. Awaiting server to respond
+[21282] Voter_7: Recieved: OK
+[21300] IDChecker_1: Sending method 1 to Server
+[21300] IDChecker_1: Method number sent. Awaiting server to respond
+[21284] Voter_8: Recieved: OK
+[21982] Voter_19: Sending method 3 to Server
+[21982] Voter_19: Method number sent. Awaiting server to respond
+[21982] Voter_19: Recieved: OK
+[21996] Voter_16: Sending method 4 to Server
+[21996] Voter_16: Method number sent. Awaiting server to respond
+[22091] KioskHelper_1: Sending method 1 to server
+[22091] KioskHelper_1: Method number sent. Awaiting server to respond
+[22161] Voter_18: Sending method 4 to Server
+[22161] Voter_18: Method number sent. Awaiting server to respond
+[22164] KioskHelper_2: Recieved: OK
+[22161] Voter_18: Recieved: OK
+[22165] Voter_17: Sending method 4 to Server
+[22165] Voter_17: Method number sent. Awaiting server to respond
+[23011] Voter_0: Sending method 5 to Server
+[23011] Voter_0: Method number sent. Awaiting server to respond
+[23011] Voter_0: Recieved: OK
+[23014] KioskHelper_0: Recieved: OK
+[23011] Voter_12: Recieved: OK
+[23040] Voter_15: Sending method 5 to Server
+[23040] Voter_15: Method number sent. Awaiting server to respond
+[23040] Voter_15: Recieved: OK
+[23043] KioskHelper_1: Recieved: OK
+[23040] Voter_14: Recieved: OK
+[23433] Voter_4: Sending method 2 to Server
+[23433] Voter_4: Method number sent. Awaiting server to respond
+[23433] Voter_4: Recieved: OK
+[23449] IDChecker_0: Recieved: OK
+[23572] KioskHelper_2: Sending method 1 to server
+[23572] KioskHelper_2: Method number sent. Awaiting server to respond
+[24039] Voter_3: Sending method 3 to Server
+[24039] Voter_3: Method number sent. Awaiting server to respond
+[24039] Voter_3: Recieved: OK
+[24041] Voter_2: Sending method 3 to Server
+[24041] Voter_2: Method number sent. Awaiting server to respond
+[24041] Voter_2: Recieved: OK
+[24078] KioskHelper_1: Sending method 1 to server
+[24078] KioskHelper_1: Method number sent. Awaiting server to respond
+[24189] Voter_13: Sending method 6 to Server
+[24189] Voter_13: Method number sent. Awaiting server to respond
+[24310] Voter_7: Sending method 2 to Server
+[24310] Voter_7: Method number sent. Awaiting server to respond
+[24310] Voter_7: Recieved: OK
+[24326] IDChecker_2: Recieved: OK
+[24313] Voter_8: Sending method 2 to Server
+[24313] Voter_8: Method number sent. Awaiting server to respond
+[24313] Voter_8: Recieved: OK
+[24329] IDChecker_1: Recieved: OK
+[24512] IDChecker_0: Sending method 1 to Server
+[24512] IDChecker_0: Method number sent. Awaiting server to respond
+[24496] Voter_6: Recieved: OK
+[24661] KioskHelper_0: Sending method 1 to server
+[24661] KioskHelper_0: Method number sent. Awaiting server to respond
+[24800] Voter_18: Sending method 5 to Server
+[24800] Voter_18: Method number sent. Awaiting server to respond
+[24800] Voter_18: Recieved: OK
+[24803] KioskHelper_2: Recieved: OK
+[24800] Voter_17: Recieved: OK
+[25389] IDChecker_2: Sending method 1 to Server
+[25389] IDChecker_2: Method number sent. Awaiting server to respond
+[25373] Voter_9: Recieved: OK
+[25394] IDChecker_1: Sending method 1 to Server
+[25394] IDChecker_1: Method number sent. Awaiting server to respond
+[25378] Voter_10: Recieved: OK
+[25397] Voter_0: Sending method 6 to Server
+[25397] Voter_0: Method number sent. Awaiting server to respond
+[25652] Voter_12: Sending method 5 to Server
+[25652] Voter_12: Method number sent. Awaiting server to respond
+[25652] Voter_12: Recieved: OK
+[25655] KioskHelper_0: Recieved: OK
+[25679] Voter_14: Sending method 5 to Server
+[25679] Voter_14: Method number sent. Awaiting server to respond
+[25679] Voter_14: Recieved: OK
+[25682] KioskHelper_1: Recieved: OK
+[25679] Voter_16: Recieved: OK
+[26136] Voter_19: Sending method 4 to Server
+[26136] Voter_19: Method number sent. Awaiting server to respond
+[26493] KioskHelper_2: Sending method 1 to server
+[26493] KioskHelper_2: Method number sent. Awaiting server to respond
+[26830] Voter_15: Sending method 6 to Server
+[26830] Voter_15: Method number sent. Awaiting server to respond
+[26831] ScanHelper_1: Recieved: OK
+[27295] Voter_4: Sending method 3 to Server
+[27295] Voter_4: Method number sent. Awaiting server to respond
+[27295] Voter_4: Recieved: OK
+[27418] KioskHelper_1: Sending method 1 to server
+[27418] KioskHelper_1: Method number sent. Awaiting server to respond
+[27439] Voter_17: Sending method 5 to Server
+[27439] Voter_17: Method number sent. Awaiting server to respond
+[27439] Voter_17: Recieved: OK
+[27442] KioskHelper_2: Recieved: OK
+[27439] Voter_19: Recieved: OK
+[27526] Voter_6: Sending method 2 to Server
+[27526] Voter_6: Method number sent. Awaiting server to respond
+[27526] Voter_6: Recieved: OK
+[27542] IDChecker_0: Recieved: OK
+[27540] KioskHelper_0: Sending method 1 to server
+[27540] KioskHelper_0: Method number sent. Awaiting server to respond
+[28172] Voter_7: Sending method 3 to Server
+[28172] Voter_7: Method number sent. Awaiting server to respond
+[28172] Voter_7: Recieved: OK
+[28175] Voter_8: Sending method 3 to Server
+[28175] Voter_8: Method number sent. Awaiting server to respond
+[28175] Voter_8: Recieved: OK
+[28319] Voter_16: Sending method 5 to Server
+[28319] Voter_16: Method number sent. Awaiting server to respond
+[28319] Voter_16: Recieved: OK
+[28322] KioskHelper_1: Recieved: OK
+[28328] Voter_2: Sending method 4 to Server
+[28328] Voter_3: Sending method 4 to Server
+[28328] Voter_2: Method number sent. Awaiting server to respond
+[28328] Voter_3: Method number sent. Awaiting server to respond
+[28331] KioskHelper_0: Recieved: OK
+[28328] Voter_2: Recieved: OK
+[28403] Voter_9: Sending method 2 to Server
+[28403] Voter_9: Method number sent. Awaiting server to respond
+[28403] Voter_9: Recieved: OK
+[28419] IDChecker_2: Recieved: OK
+[28407] Voter_10: Sending method 2 to Server
+[28407] Voter_10: Method number sent. Awaiting server to respond
+[28407] Voter_10: Recieved: OK
+[28423] IDChecker_1: Recieved: OK
+[28427] ScanHelper_1: Sending method 1 to Server
+[28427] ScanHelper_1: Method number sent. Awaiting server to respond
+[28427] ScanHelper_1: Recieved: OK
+[28426] Voter_1: Recieved: OK
+[28426] Voter_13: Recieved: OK
+[28426] Voter_15: Recieved: OK
+[28426] Voter_0: Recieved: OK
+[28477] KioskHelper_2: Sending method 1 to server
+[28477] KioskHelper_2: Method number sent. Awaiting server to respond
+[28589] Voter_18: Sending method 6 to Server
+[28589] Voter_18: Method number sent. Awaiting server to respond
+[29409] IDChecker_0: Sending method 1 to Server
+[29409] IDChecker_0: Method number sent. Awaiting server to respond
+[29393] Voter_5: Recieved: OK
+[29444] Voter_12: Sending method 6 to Server
+[29444] Voter_12: Method number sent. Awaiting server to respond
+[29469] Voter_14: Sending method 6 to Server
+[29469] Voter_14: Method number sent. Awaiting server to respond
+[29657] KioskHelper_1: Sending method 1 to server
+[29657] KioskHelper_1: Method number sent. Awaiting server to respond
+[30026] ScanHelper_1: Sending method 1 to Server
+[30026] ScanHelper_1: Method number sent. Awaiting server to respond
+[30075] KioskHelper_0: Sending method 1 to server
+[30075] KioskHelper_0: Method number sent. Awaiting server to respond
+[30080] Voter_19: Sending method 5 to Server
+[30080] Voter_19: Method number sent. Awaiting server to respond
+[30080] Voter_19: Recieved: OK
+[30083] KioskHelper_2: Recieved: OK
+[30285] IDChecker_2: Sending method 1 to Server
+[30285] IDChecker_2: Method number sent. Awaiting server to respond
+[30269] Voter_11: Recieved: OK
+[30289] IDChecker_1: Sending method 1 to Server
+[30289] IDChecker_1: Method number sent. Awaiting server to respond
+[30289] IDChecker_1: Recieved: DONE
+[31228] Voter_2: Sending method 5 to Server
+[31228] Voter_2: Method number sent. Awaiting server to respond
+[31228] Voter_2: Recieved: OK
+[31231] KioskHelper_0: Recieved: OK
+[31228] Voter_3: Recieved: OK
+[31231] Voter_17: Sending method 6 to Server
+[31231] Voter_17: Method number sent. Awaiting server to respond
+[31232] ScanHelper_0: Recieved: OK
+[31388] Voter_6: Sending method 3 to Server
+[31388] Voter_6: Method number sent. Awaiting server to respond
+[31388] Voter_6: Recieved: OK
+[31533] Voter_13: Sending method 7 to Server
+[31533] Voter_15: Sending method 7 to Server
+[31533] Voter_13: Method number sent. Awaiting server to respond
+[31533] Voter_15: Method number sent. Awaiting server to respond
+[31533] Voter_15: Recieved: OK
+[31533] Voter_13: Recieved: OK
+[31583] Voter_4: Sending method 4 to Server
+[31583] Voter_4: Method number sent. Awaiting server to respond
+[31821] KioskHelper_2: Sending method 1 to server
+[31821] KioskHelper_2: Method number sent. Awaiting server to respond
+[32108] Voter_16: Sending method 6 to Server
+[32108] Voter_16: Method number sent. Awaiting server to respond
+[32109] ScanHelper_1: Recieved: OK
+[32228] Voter_1: Sending method 7 to Server
+[32228] Voter_0: Sending method 7 to Server
+[32228] Voter_0: Method number sent. Awaiting server to respond
+[32228] Voter_1: Method number sent. Awaiting server to respond
+[32253] IDChecker_1: Done, leaving the voting area (exiting, patriotically)
+[32266] Voter_9: Sending method 3 to Server
+[32266] Voter_9: Method number sent. Awaiting server to respond
+[32266] Voter_9: Recieved: OK
+[32269] Voter_10: Sending method 3 to Server
+[32269] Voter_10: Method number sent. Awaiting server to respond
+[32269] Voter_10: Recieved: OK
+[32421] Voter_5: Sending method 2 to Server
+[32421] Voter_5: Method number sent. Awaiting server to respond
+[32421] Voter_5: Recieved: OK
+[32437] IDChecker_0: Recieved: OK
+[32460] Voter_7: Sending method 4 to Server
+[32460] Voter_7: Method number sent. Awaiting server to respond
+[32463] Voter_8: Sending method 4 to Server
+[32463] Voter_8: Method number sent. Awaiting server to respond
+[32830] ScanHelper_0: Sending method 1 to Server
+[32830] ScanHelper_0: Method number sent. Awaiting server to respond
+[33016] KioskHelper_0: Sending method 1 to server
+[33016] KioskHelper_0: Method number sent. Awaiting server to respond
+[33299] Voter_11: Sending method 2 to Server
+[33299] Voter_11: Method number sent. Awaiting server to respond
+[33299] Voter_11: Recieved: OK
+[33315] IDChecker_2: Recieved: OK
+[33554] ScanHelper_1: Sending method 1 to Server
+[33554] ScanHelper_1: Method number sent. Awaiting server to respond
+[33871] Voter_19: Sending method 6 to Server
+[33871] Voter_19: Method number sent. Awaiting server to respond
+[34128] Voter_3: Sending method 5 to Server
+[34128] Voter_3: Method number sent. Awaiting server to respond
+[34128] Voter_3: Recieved: OK
+[34131] KioskHelper_0: Recieved: OK
+[34128] Voter_4: Recieved: OK
+[34165] Voter_2: Sending method 6 to Server
+[34165] Voter_2: Method number sent. Awaiting server to respond
+[34399] IDChecker_0: Sending method 1 to Server
+[34399] IDChecker_0: Method number sent. Awaiting server to respond
+[34399] IDChecker_0: Recieved: DONE
+[35162] KioskHelper_0: Sending method 1 to server
+[35162] KioskHelper_0: Method number sent. Awaiting server to respond
+[35277] IDChecker_2: Sending method 1 to Server
+[35277] IDChecker_2: Method number sent. Awaiting server to respond
+[35277] IDChecker_2: Recieved: DONE
+[35600] Voter_15: Sending method 8 to Server
+[35600] Voter_13: Sending method 8 to Server
+[35600] Voter_15: Method number sent. Awaiting server to respond
+[35600] Voter_13: Method number sent. Awaiting server to respond
+[35600] Voter_13: Recieved: OK
+[35600] Voter_15: Recieved: OK
+[35677] Voter_6: Sending method 4 to Server
+[35677] Voter_6: Method number sent. Awaiting server to respond
+[35710] IDChecker_0: Done, leaving the voting area (exiting, patriotically)
+[36283] Voter_5: Sending method 3 to Server
+[36283] Voter_5: Method number sent. Awaiting server to respond
+[36283] Voter_5: Recieved: OK
+[36553] Voter_9: Sending method 4 to Server
+[36553] Voter_9: Method number sent. Awaiting server to respond
+[36556] KioskHelper_1: Recieved: OK
+[36553] Voter_9: Recieved: OK
+[36556] Voter_10: Sending method 4 to Server
+[36556] Voter_10: Method number sent. Awaiting server to respond
+[36556] Voter_1: Recieved: OK
+[36557] ScanHelper_0: Recieved: OK
+[36587] IDChecker_2: Done, leaving the voting area (exiting, patriotically)
+[36615] Voter_0: Recieved: OK
+[36616] ScanHelper_1: Recieved: OK
+[37029] Voter_4: Sending method 5 to Server
+[37029] Voter_4: Method number sent. Awaiting server to respond
+[37029] Voter_4: Recieved: OK
+[37032] KioskHelper_0: Recieved: OK
+[37029] Voter_7: Recieved: OK
+[37066] Voter_3: Sending method 6 to Server
+[37066] Voter_3: Method number sent. Awaiting server to respond
+[37161] Voter_11: Sending method 3 to Server
+[37161] Voter_11: Method number sent. Awaiting server to respond
+[37161] Voter_11: Recieved: OK
+[37631] Voter_15: Done, leaving the voting area (exiting, patriotically)
+[37631] Voter_13: Done, leaving the voting area (exiting, patriotically)
+[38054] KioskHelper_0: Sending method 1 to server
+[38054] KioskHelper_0: Method number sent. Awaiting server to respond
+[38138] ScanHelper_1: Sending method 1 to Server
+[38138] ScanHelper_1: Method number sent. Awaiting server to respond
+[38157] ScanHelper_0: Sending method 1 to Server
+[38157] ScanHelper_0: Method number sent. Awaiting server to respond
+[38186] KioskHelper_1: Sending method 1 to server
+[38186] KioskHelper_1: Method number sent. Awaiting server to respond
+[39454] Voter_9: Sending method 5 to Server
+[39454] Voter_9: Method number sent. Awaiting server to respond
+[39454] Voter_9: Recieved: OK
+[39457] KioskHelper_1: Recieved: OK
+[39454] Voter_10: Recieved: OK
+[39930] Voter_7: Sending method 5 to Server
+[39930] Voter_7: Method number sent. Awaiting server to respond
+[39930] Voter_7: Recieved: OK
+[39933] KioskHelper_0: Recieved: OK
+[39930] Voter_8: Recieved: OK
+[39968] Voter_4: Sending method 6 to Server
+[39968] Voter_4: Method number sent. Awaiting server to respond
+[39969] ScanHelper_1: Recieved: OK
+[40144] Voter_1: Sending method 8 to Server
+[40144] Voter_1: Method number sent. Awaiting server to respond
+[40144] Voter_1: Recieved: OK
+[40205] Voter_0: Sending method 8 to Server
+[40205] Voter_0: Method number sent. Awaiting server to respond
+[40205] Voter_0: Recieved: OK
+[40206] ScanHelper_0: Recieved: OK
+[40571] Voter_5: Sending method 4 to Server
+[40571] Voter_5: Method number sent. Awaiting server to respond
+[40745] KioskHelper_1: Sending method 1 to server
+[40745] KioskHelper_1: Method number sent. Awaiting server to respond
+[41381] KioskHelper_0: Sending method 1 to server
+[41381] KioskHelper_0: Method number sent. Awaiting server to respond
+[41450] Voter_11: Sending method 4 to Server
+[41450] Voter_11: Method number sent. Awaiting server to respond
+[41453] KioskHelper_2: Recieved: OK
+[41450] Voter_11: Recieved: OK
+[41503] ScanHelper_1: Sending method 1 to Server
+[41503] ScanHelper_1: Method number sent. Awaiting server to respond
+[41503] ScanHelper_1: Recieved: OK
+[41502] Voter_12: Recieved: OK
+[41502] Voter_18: Recieved: OK
+[41502] Voter_17: Recieved: OK
+[41502] Voter_14: Recieved: OK
+[41650] ScanHelper_0: Sending method 1 to Server
+[41650] ScanHelper_0: Method number sent. Awaiting server to respond
+[42354] Voter_10: Sending method 5 to Server
+[42354] Voter_10: Method number sent. Awaiting server to respond
+[42354] Voter_10: Recieved: OK
+[42357] KioskHelper_1: Recieved: OK
+[42354] Voter_5: Recieved: OK
+[42391] Voter_9: Sending method 6 to Server
+[42391] Voter_9: Method number sent. Awaiting server to respond
+[42392] ScanHelper_0: Recieved: OK
+[42789] KioskHelper_2: Sending method 1 to server
+[42789] KioskHelper_2: Method number sent. Awaiting server to respond
+[42831] Voter_8: Sending method 5 to Server
+[42831] Voter_8: Method number sent. Awaiting server to respond
+[42834] KioskHelper_0: Recieved: OK
+[42831] Voter_8: Recieved: OK
+[42831] Voter_6: Recieved: OK
+[42867] Voter_7: Sending method 6 to Server
+[42867] Voter_7: Method number sent. Awaiting server to respond
+[42914] Voter_1: Done, leaving the voting area (exiting, patriotically)
+[42975] Voter_0: Done, leaving the voting area (exiting, patriotically)
+[43363] ScanHelper_1: Sending method 1 to Server
+[43363] ScanHelper_1: Method number sent. Awaiting server to respond
+[43913] ScanHelper_0: Sending method 1 to Server
+[43913] ScanHelper_0: Method number sent. Awaiting server to respond
+[43921] KioskHelper_1: Sending method 1 to server
+[43921] KioskHelper_1: Method number sent. Awaiting server to respond
+[44350] Voter_11: Sending method 5 to Server
+[44350] Voter_11: Method number sent. Awaiting server to respond
+[44350] Voter_11: Recieved: OK
+[44353] KioskHelper_2: Recieved: OK
+[44567] KioskHelper_0: Sending method 1 to server
+[44567] KioskHelper_0: Method number sent. Awaiting server to respond
+[44609] Voter_12: Sending method 7 to Server
+[44609] Voter_17: Sending method 7 to Server
+[44609] Voter_18: Sending method 7 to Server
+[44609] Voter_12: Method number sent. Awaiting server to respond
+[44609] Voter_12: Recieved: OK
+[44609] Voter_17: Method number sent. Awaiting server to respond
+[44609] Voter_18: Method number sent. Awaiting server to respond
+[44609] Voter_17: Recieved: OK
+[44609] Voter_18: Recieved: OK
+[44611] Voter_14: Sending method 7 to Server
+[44611] Voter_14: Method number sent. Awaiting server to respond
+[44611] Voter_14: Recieved: OK
+[45256] Voter_5: Sending method 5 to Server
+[45256] Voter_5: Method number sent. Awaiting server to respond
+[45256] Voter_5: Recieved: OK
+[45259] KioskHelper_1: Recieved: OK
+[45291] Voter_10: Sending method 6 to Server
+[45291] Voter_10: Method number sent. Awaiting server to respond
+[45292] ScanHelper_1: Recieved: OK
+[45732] Voter_6: Sending method 5 to Server
+[45732] Voter_6: Method number sent. Awaiting server to respond
+[45732] Voter_6: Recieved: OK
+[45735] KioskHelper_0: Recieved: OK
+[45769] Voter_8: Sending method 6 to Server
+[45769] Voter_8: Method number sent. Awaiting server to respond
+[45770] ScanHelper_0: Recieved: OK
+[45985] KioskHelper_2: Sending method 1 to server
+[45985] KioskHelper_2: Method number sent. Awaiting server to respond
+[45985] KioskHelper_2: Recieved: DONE
+[46962] KioskHelper_0: Sending method 1 to server
+[46962] KioskHelper_0: Method number sent. Awaiting server to respond
+[46962] KioskHelper_0: Recieved: DONE
+[47034] ScanHelper_1: Sending method 1 to Server
+[47034] ScanHelper_1: Method number sent. Awaiting server to respond
+[47198] KioskHelper_1: Sending method 1 to server
+[47198] KioskHelper_1: Method number sent. Awaiting server to respond
+[47198] KioskHelper_1: Recieved: DONE
+[47274] KioskHelper_2: Done, leaving the voting area
+[47289] Voter_11: Sending method 6 to Server
+[47289] Voter_11: Method number sent. Awaiting server to respond
+[47290] ScanHelper_1: Recieved: OK
+[47304] ScanHelper_0: Sending method 1 to Server
+[47304] ScanHelper_0: Method number sent. Awaiting server to respond
+[48193] Voter_5: Sending method 6 to Server
+[48193] Voter_5: Method number sent. Awaiting server to respond
+[48194] ScanHelper_0: Recieved: OK
+[48446] ScanHelper_1: Sending method 1 to Server
+[48446] ScanHelper_1: Method number sent. Awaiting server to respond
+[48670] Voter_6: Sending method 6 to Server
+[48670] Voter_6: Method number sent. Awaiting server to respond
+[48671] ScanHelper_1: Recieved: OK
+[48676] Voter_18: Sending method 8 to Server
+[48676] Voter_12: Sending method 8 to Server
+[48676] Voter_17: Sending method 8 to Server
+[48676] Voter_18: Method number sent. Awaiting server to respond
+[48676] Voter_12: Method number sent. Awaiting server to respond
+[48676] Voter_18: Recieved: OK
+[48676] Voter_17: Method number sent. Awaiting server to respond
+[48676] Voter_17: Recieved: OK
+[48676] Voter_12: Recieved: OK
+[48678] Voter_14: Sending method 8 to Server
+[48678] Voter_14: Method number sent. Awaiting server to respond
+[48678] Voter_14: Recieved: OK
+[48727] KioskHelper_1: Done, leaving the voting area
+[48762] KioskHelper_0: Done, leaving the voting area
+[49908] ScanHelper_1: Sending method 1 to Server
+[49908] ScanHelper_1: Method number sent. Awaiting server to respond
+[49908] ScanHelper_1: Recieved: OK
+[49907] Voter_16: Recieved: OK
+[49907] Voter_3: Recieved: OK
+[49907] Voter_2: Recieved: OK
+[49907] Voter_19: Recieved: OK
+[50055] ScanHelper_0: Sending method 1 to Server
+[50055] ScanHelper_0: Method number sent. Awaiting server to respond
+[50707] Voter_18: Done, leaving the voting area (exiting, patriotically)
+[50707] Voter_17: Done, leaving the voting area (exiting, patriotically)
+[50707] Voter_12: Done, leaving the voting area (exiting, patriotically)
+[50710] Voter_14: Done, leaving the voting area (exiting, patriotically)
+[51726] ScanHelper_1: Sending method 1 to Server
+[51726] ScanHelper_1: Method number sent. Awaiting server to respond
+[53014] Voter_19: Sending method 7 to Server
+[53014] Voter_16: Sending method 7 to Server
+[53014] Voter_19: Method number sent. Awaiting server to respond
+[53014] Voter_16: Method number sent. Awaiting server to respond
+[53014] Voter_16: Recieved: OK
+[53014] Voter_19: Recieved: OK
+[53071] Voter_2: Sending method 7 to Server
+[53071] Voter_3: Sending method 7 to Server
+[53071] Voter_3: Method number sent. Awaiting server to respond
+[53071] Voter_2: Method number sent. Awaiting server to respond
+[53072] ScanHelper_0: Recieved: OK
+[53072] ScanHelper_1: Recieved: OK
+[54214] ScanHelper_1: Sending method 1 to Server
+[54214] ScanHelper_1: Method number sent. Awaiting server to respond
+[54814] ScanHelper_0: Sending method 1 to Server
+[54814] ScanHelper_0: Method number sent. Awaiting server to respond
+[57082] Voter_19: Sending method 8 to Server
+[57082] Voter_16: Sending method 8 to Server
+[57082] Voter_16: Method number sent. Awaiting server to respond
+[57082] Voter_19: Method number sent. Awaiting server to respond
+[57082] Voter_19: Recieved: OK
+[57082] Voter_16: Recieved: OK
+[58402] Voter_2: Recieved: OK
+[58403] ScanHelper_1: Recieved: OK
+[59002] Voter_3: Recieved: OK
+[59003] ScanHelper_0: Recieved: OK
+[59120] Voter_19: Done, leaving the voting area (exiting, patriotically)
+[59120] Voter_16: Done, leaving the voting area (exiting, patriotically)
+[59590] ScanHelper_1: Sending method 1 to Server
+[59590] ScanHelper_1: Method number sent. Awaiting server to respond
+[60160] ScanHelper_0: Sending method 1 to Server
+[60160] ScanHelper_0: Method number sent. Awaiting server to respond
+[62271] Voter_2: Sending method 8 to Server
+[62271] Voter_2: Method number sent. Awaiting server to respond
+[62271] Voter_2: Recieved: OK
+[62872] Voter_3: Sending method 8 to Server
+[62872] Voter_3: Method number sent. Awaiting server to respond
+[62872] Voter_3: Recieved: OK
+[62873] ScanHelper_1: Recieved: OK
+[64025] ScanHelper_1: Sending method 1 to Server
+[64025] ScanHelper_1: Method number sent. Awaiting server to respond
+[64024] Voter_4: Recieved: OK
+[64025] ScanHelper_1: Recieved: OK
+[64024] Voter_10: Recieved: OK
+[64024] Voter_9: Recieved: OK
+[64024] Voter_7: Recieved: OK
+[65124] ScanHelper_1: Sending method 1 to Server
+[65124] ScanHelper_1: Method number sent. Awaiting server to respond
+[66691] Voter_2: Done, leaving the voting area (exiting, patriotically)
+[67188] Voter_9: Sending method 7 to Server
+[67188] Voter_10: Sending method 7 to Server
+[67188] Voter_4: Sending method 7 to Server
+[67188] Voter_10: Method number sent. Awaiting server to respond
+[67188] Voter_9: Method number sent. Awaiting server to respond
+[67188] Voter_7: Sending method 7 to Server
+[67188] Voter_7: Method number sent. Awaiting server to respond
+[67188] Voter_4: Method number sent. Awaiting server to respond
+[67189] ScanHelper_0: Recieved: OK
+[67189] ScanHelper_1: Recieved: OK
+[67293] Voter_3: Done, leaving the voting area (exiting, patriotically)
+[68424] ScanHelper_0: Sending method 1 to Server
+[68424] ScanHelper_0: Method number sent. Awaiting server to respond
+[69024] ScanHelper_1: Sending method 1 to Server
+[69024] ScanHelper_1: Method number sent. Awaiting server to respond
+[73250] Voter_9: Recieved: OK
+[73251] ScanHelper_0: Recieved: OK
+[73642] Voter_10: Recieved: OK
+[73643] ScanHelper_1: Recieved: OK
+[75069] ScanHelper_0: Sending method 1 to Server
+[75069] ScanHelper_1: Sending method 1 to Server
+[75069] ScanHelper_0: Method number sent. Awaiting server to respond
+[75069] ScanHelper_1: Method number sent. Awaiting server to respond
+[77120] Voter_9: Sending method 8 to Server
+[77120] Voter_9: Method number sent. Awaiting server to respond
+[77120] Voter_9: Recieved: OK
+[77511] Voter_10: Sending method 8 to Server
+[77511] Voter_10: Method number sent. Awaiting server to respond
+[77511] Voter_10: Recieved: OK
+[78473] Voter_4: Recieved: OK
+[78474] ScanHelper_1: Recieved: OK
+[79895] Voter_7: Recieved: OK
+[79896] ScanHelper_0: Recieved: OK
+[80083] ScanHelper_1: Sending method 1 to Server
+[80083] ScanHelper_1: Method number sent. Awaiting server to respond
+[81038] ScanHelper_0: Sending method 1 to Server
+[81038] ScanHelper_0: Method number sent. Awaiting server to respond
+[81539] Voter_9: Done, leaving the voting area (exiting, patriotically)
+[81933] Voter_10: Done, leaving the voting area (exiting, patriotically)
+[82342] Voter_4: Sending method 8 to Server
+[82342] Voter_4: Method number sent. Awaiting server to respond
+[82342] Voter_4: Recieved: OK
+[83764] Voter_7: Sending method 8 to Server
+[83764] Voter_7: Method number sent. Awaiting server to respond
+[83764] Voter_7: Recieved: OK
+[83765] ScanHelper_1: Recieved: OK
+[84829] ScanHelper_1: Sending method 1 to Server
+[84829] ScanHelper_1: Method number sent. Awaiting server to respond
+[84829] ScanHelper_1: Recieved: OK
+[84828] Voter_11: Recieved: OK
+[84828] Voter_6: Recieved: OK
+[84828] Voter_8: Recieved: OK
+[84828] Voter_5: Recieved: OK
+[86629] ScanHelper_1: Sending method 1 to Server
+[86629] ScanHelper_1: Method number sent. Awaiting server to respond
+[86763] Voter_4: Done, leaving the voting area (exiting, patriotically)
+[87992] Voter_5: Sending method 7 to Server
+[87992] Voter_6: Sending method 7 to Server
+[87992] Voter_6: Method number sent. Awaiting server to respond
+[87992] Voter_5: Method number sent. Awaiting server to respond
+[87993] ScanHelper_0: Recieved: OK
+[87993] ScanHelper_1: Recieved: OK
+[87994] Voter_8: Sending method 7 to Server
+[87994] Voter_11: Sending method 7 to Server
+[87994] Voter_8: Method number sent. Awaiting server to respond
+[87994] Voter_11: Method number sent. Awaiting server to respond
+[88183] Voter_7: Done, leaving the voting area (exiting, patriotically)
+[89180] ScanHelper_0: Sending method 1 to Server
+[89180] ScanHelper_0: Method number sent. Awaiting server to respond
+[89454] ScanHelper_1: Sending method 1 to Server
+[89454] ScanHelper_1: Method number sent. Awaiting server to respond
+[93367] Voter_6: Recieved: OK
+[93368] ScanHelper_0: Recieved: OK
+[93640] Voter_5: Recieved: OK
+[93641] ScanHelper_1: Recieved: OK
+[94520] ScanHelper_0: Sending method 1 to Server
+[94520] ScanHelper_0: Method number sent. Awaiting server to respond
+[94756] ScanHelper_1: Sending method 1 to Server
+[94756] ScanHelper_1: Method number sent. Awaiting server to respond
+[97236] Voter_6: Sending method 8 to Server
+[97236] Voter_6: Method number sent. Awaiting server to respond
+[97236] Voter_6: Recieved: OK
+[97511] Voter_5: Sending method 8 to Server
+[97511] Voter_5: Method number sent. Awaiting server to respond
+[97511] Voter_5: Recieved: OK
+[99140] Voter_11: Recieved: OK
+[99141] ScanHelper_0: Recieved: OK
+[99583] Voter_8: Recieved: OK
+[99584] ScanHelper_1: Recieved: OK
+[100240] ScanHelper_0: Sending method 1 to Server
+[100240] ScanHelper_0: Method number sent. Awaiting server to respond
+[100240] ScanHelper_0: Recieved: OK
+[101181] ScanHelper_1: Sending method 1 to Server
+[101181] ScanHelper_1: Method number sent. Awaiting server to respond
+[101181] ScanHelper_1: Recieved: OK
+[101655] Voter_6: Done, leaving the voting area (exiting, patriotically)
+[101930] Voter_5: Done, leaving the voting area (exiting, patriotically)
+[102075] ScanHelper_0: Sending method 1 to Server
+[102075] ScanHelper_0: Method number sent. Awaiting server to respond
+[102075] ScanHelper_0: Recieved: OK
+[103009] Voter_11: Sending method 8 to Server
+[103009] Voter_11: Method number sent. Awaiting server to respond
+[103009] Voter_11: Recieved: OK
+[103170] ScanHelper_1: Sending method 1 to Server
+[103170] ScanHelper_1: Method number sent. Awaiting server to respond
+[103170] ScanHelper_1: Recieved: OK
+[103452] Voter_8: Sending method 8 to Server
+[103452] Voter_8: Method number sent. Awaiting server to respond
+[103452] Voter_8: Recieved: OK
+[103501] ScanHelper_0: Sending method 1 to Server
+[103501] ScanHelper_0: Method number sent. Awaiting server to respond
+[103501] ScanHelper_0: Recieved: DONE
+[104662] ScanHelper_1: Sending method 1 to Server
+[104662] ScanHelper_1: Method number sent. Awaiting server to respond
+[104662] ScanHelper_1: Recieved: DONE
+[105107] ScanHelper_0: Done, leaving the voting area
+[105706] ScanHelper_1: Done, leaving the voting area
+[107429] Voter_11: Done, leaving the voting area (exiting, patriotically)
+[107871] Voter_8: Done, leaving the voting area (exiting, patriotically)
