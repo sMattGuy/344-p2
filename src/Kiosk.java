@@ -1,6 +1,9 @@
 import java.util.Random;
 import java.util.Vector;
 import java.util.concurrent.TimeUnit;
+import java.io.*;
+import java.net.Socket;
+import java.util.*;
 /*
 	plan:
 	each kiosk will run individually and have its own line
@@ -22,62 +25,16 @@ class Kiosk{
 	private Object helperConvey = new Object();
 	private boolean busy = false;
 	private boolean first = true;
-	private KioskHelper helper;
 	
-	//thread that is only for that kiosk
-	/*
-		since each kiosk only has one helper, it is better to just let it exist within its monitor
-		this makes it much easier to manage, since its restricted to only its monitor
-	*/
-	private class KioskHelper implements Runnable{
-		private String name;
-		private Kiosk kiosk;
-		
-		public KioskHelper(String name, Kiosk kiosk){
-			this.name = name;
-			this.kiosk = kiosk;
-		}
-		
-		public void run(){
-			try{
-				while(kiosk.waitingVoters.size() != 0){
-					this.msg("Ready to help next voter to kiosk");
-					//loop helpers job until voters are all gone
-					kiosk.startHelping(this.name);
-					this.msg("Waiting for voter to finish at kiosk");
-					this.wasteTime(1000,2000);
-				}
-				this.kiosk.first = true;
-				this.msg("Done helping voters at kiosk, leaving (exiting until more voters arrive)");
-			}
-			catch(InterruptedException e){
-				System.out.println(e);
-			}
-		}
-		public static long time = System.currentTimeMillis();
-	
-		public void msg(String m) {
-			System.out.println("["+(System.currentTimeMillis()-time)+"] "+this.name+": "+m);
-		}
-		
-		private void wasteTime(int min,int max) throws InterruptedException{
-			Random rand = new Random(System.currentTimeMillis());
-			TimeUnit.MILLISECONDS.sleep(rand.nextInt(max-min)+min);
-		}
-	}
 	//constructor
 	public Kiosk(int num, Tracker tracker){
 		this.tracker = tracker;
-		helper = new KioskHelper("KioskHelper_"+num,this);
+		this.kioskNum = num;
 	}
 	
 	//essentially same code as in ID_Check, except that there will only ever be one helper per kiosk
 	//service methods for voter
 	public void enterLine(String name){
-		if(first){
-			first = false;
-			new Thread(helper).start();
-		}
 		//object that thread will wait on
 		Object convey = new Object();
 		synchronized(convey){
@@ -104,7 +61,7 @@ class Kiosk{
 		alertBusyHelper();
 	}
 	//called by helpers to kick things off
-	public void startHelping(String name){
+	public boolean startHelping(String name){
 		if(!waitingVoters.isEmpty()){
 			//assist voter
 			alertVoters();
@@ -121,6 +78,25 @@ class Kiosk{
 					}
 				}
 			}
+			return false;
+		}
+		else{
+			//line empty, wait
+			if(this.tracker.kioskVotersRemaining <= 6 && this.waitingVoters.size() == 0){
+				return true;
+			}
+			synchronized(helperConvey){
+				while(true){
+					try{
+						helperConvey.wait();
+						break;
+					}
+					catch(InterruptedException e){
+						continue;
+					}
+				}
+			}
+			return false;
 		}
 	}
 	//methods to release threads from their queues

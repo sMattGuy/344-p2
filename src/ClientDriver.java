@@ -21,6 +21,9 @@ class ClientDriver{
 		for(int i=0;i<numIDHelpers;i++){
 			new IDCheckerClient(address, port, i);
 		}
+		for(int i=0;i<numKiosks;i++){
+			new KioskHelperClient(address, port, i);
+		}
 		for(int i=0;i<numVoters;i++){
 			new VoterClient(address, port, i);
 		}

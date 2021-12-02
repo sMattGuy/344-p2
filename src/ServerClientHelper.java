@@ -46,16 +46,16 @@ class ServerClientHelper implements Runnable{
 			threadType = dis.readUTF();
 			dos.writeUTF("OK");
 			
-			msg("Client has declared they are type "+threadType+", getting name.");
-			threadName = dis.readUTF();
-			dos.writeUTF("OK");
-			
-			if(threadName.equals("Kiosk_Helper")){
+			if(threadType.equals("Kiosk_Helper")){
 				msg("Getting Kiosk Helper number");
 				chosenKiosk = Integer.parseInt(dis.readUTF());
 				dos.writeUTF("OK");
 				msg("Kiosk Helper is in kiosk "+chosenKiosk);
 			}
+			
+			msg("Client has declared they are type "+threadType+", getting name.");
+			threadName = dis.readUTF();
+			dos.writeUTF("OK");
 			
 			msg("Client has declared they are "+threadName+", beginning routine");
 			
@@ -149,7 +149,8 @@ class ServerClientHelper implements Runnable{
 			switch(methodID){
 				case 1:
 					msg(threadName+" ready to help voter at kiosk");
-				break;
+					if(kiosks.elementAt(chosenKiosk).startHelping(name)){sendDone = "DONE"; break;};
+					break;
 			}
 		}
 		else if(threadType.equals("Scan_Helper")){
